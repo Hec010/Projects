@@ -1,0 +1,1001 @@
+,sq_area,furinture,Price_in_rupees,BHK_,House_Type,Location,Locality,No_of_Bathrooms,Facing
+0,800,Unfurnished,5000,1,Apartment, Hyderabad,Medchal,1,NorthEast facing
+1,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,North facing
+2,1300,Semi-Furnished,10500,2,Independent House, Hyderabad,Saroornagar,2,
+3,1710,Furnished,70000,3,Apartment, Hyderabad,Kondapur,3,
+4,1000,Semi-Furnished,7000,2,Apartment, Hyderabad,Pragathi Nagar,2,
+5,830,Unfurnished,9960,2,Independent Floor, Hyderabad,Mehdipatnam,2,South facing
+6,800,Semi-Furnished,25000,2,Independent House, Hyderabad,Madhapur,2,NorthEast facing
+7,3300,Unfurnished,70000,8,Apartment, Hyderabad,Nanakramguda,4,
+8,1090,Semi-Furnished,12500,3,Apartment, Hyderabad,Chinthal,2,
+9,1300,Unfurnished,15500,3,Independent House, Hyderabad,Qutub Shahi Tombs,2,
+10,800,Furnished,10000,2,Apartment, Hyderabad,Nacharam,1,
+11,1492,Semi-Furnished,55000,3,Apartment, Hyderabad,Gachibowli,2,
+12,1200,Unfurnished,200000,2,Apartment, Hyderabad,muthangi,2,
+13,1230,Semi-Furnished,20000,2,Apartment, Hyderabad,Attapur,2,
+14,2060,Semi-Furnished,30000,6,Apartment, Hyderabad,Maheshwaram,3,East facing
+15,2700,Furnished,35000,3,Independent Floor, Hyderabad,Nagole,3,
+16,2160,Semi-Furnished,48000,3,Apartment, Hyderabad,Gachibowli,3,
+17,1080,Furnished,19000,1,Studio Apartment, Hyderabad,Madhapur,1,
+18,850,Furnished,20000,2,Apartment, Hyderabad,Malkajgiri,2,East facing
+19,500,Furnished,15000,1,Studio Apartment, Hyderabad,Kukatpally,1,
+20,1400,Unfurnished,10000,2,Independent Floor, Hyderabad,Jillelguda,2,
+21,1440,Unfurnished,7100,1,Independent House, Hyderabad,Bandlaguda Jagir,1,West facing
+22,1400,Unfurnished,13500,2,Independent House, Hyderabad,Kothapet,2,
+23,1500,Semi-Furnished,40000,3,Apartment, Hyderabad,Kondapur,3,East facing
+24,1200,Semi-Furnished,13500,2,Apartment, Hyderabad,Kothapet,2,
+25,1550,Unfurnished,10000,2,Independent Floor, Hyderabad,Srinilaya Township,,
+26,1200,Unfurnished,13000,2,Apartment, Hyderabad,Jeedimetla,2,
+27,1355,Furnished,24000,2,Apartment, Hyderabad,Manikonda,2,
+28,2880,Furnished,50000,3,Independent Floor, Hyderabad,Nampally,4,
+29,1130,Semi-Furnished,20000,2,Apartment, Hyderabad,Chintalmet,2,East facing
+30,2509,Unfurnished,37635,3,Villa, Hyderabad,Nagole,3,West facing
+31,1022,Unfurnished,9000,2,Independent Floor, Hyderabad,Vanasthalipuram,2,
+32,500,Unfurnished,8000,1,Studio Apartment, Hyderabad,Mansoorabad,1,
+33,1400,Furnished,32000,3,Apartment, Hyderabad,Basheer Bagh,,
+34,300,Furnished,23000,1,Apartment, Hyderabad,Gopanapalli,1,
+35,1800,Unfurnished,15000,4,Apartment, Hyderabad,Upparpally,2,
+36,1000,Semi-Furnished,17000,2,Independent House, Hyderabad,Attapur,2,
+37,1900,Furnished,25000,2,Independent House, Hyderabad,Erragadda,2,
+38,3400,Semi-Furnished,50000,8,Villa, Hyderabad,Kismatpur,5,
+39,1300,Furnished,25000,2,Apartment, Hyderabad,Shalibanda,2,
+40,1360,Semi-Furnished,18000,3,Apartment, Hyderabad,Krishna Reddy Pet,2,East facing
+41,3200,Furnished,40000,4,Villa, Hyderabad,Shamshabad,2,West facing
+42,891,Unfurnished,9500,3,Apartment, Hyderabad,Toli Chowki,2,
+43,1100,Semi-Furnished,13500,2,Apartment, Hyderabad,Moosapet,2,
+44,450,Unfurnished,8000,1,Apartment, Hyderabad,Banjara Hills,1,East facing
+45,850,Semi-Furnished,7500,2,Independent House, Hyderabad,Trimalgherry,2,
+46,1620,Semi-Furnished,27000,3,Apartment, Hyderabad,Gajulramaram Kukatpally,3,
+47,1300,Semi-Furnished,18000,3,Apartment, Hyderabad,Ramachandra Puram,3,
+48,1600,Furnished,27000,3,Villa, Hyderabad,Uppal Kalan,3,
+49,1900,Semi-Furnished,21000,3,Apartment, Hyderabad,Qutub Shahi Tombs,3,
+50,400,Semi-Furnished,5000,1,Apartment, Hyderabad,Serilingampally,1,East facing
+51,1200,Semi-Furnished,20000,2,Independent Floor, Hyderabad,Moghalpura,2,
+52,1500,Semi-Furnished,12500,3,Apartment, Hyderabad,Somajiguda,,
+53,1503,Semi-Furnished,14500,2,Apartment, Hyderabad,East Bahadurpura,2,
+54,2000,Semi-Furnished,35000,4,Independent House, Hyderabad,Gachibowli,3,
+55,7000,Furnished,55000,5,Independent House, Hyderabad,Dilsukh Nagar,5,
+56,2200,Semi-Furnished,30000,3,Independent Floor, Hyderabad,Madhapur,2,East facing
+57,1200,Unfurnished,12000,2,Independent House, Hyderabad,Shaikpet,1,NorthEast facing
+58,1100,Unfurnished,10000,2,Independent Floor, Hyderabad,Boduppal,2,East facing
+59,2500,Semi-Furnished,40000,4,Apartment, Hyderabad,Rajapur,3,
+60,950,Semi-Furnished,13000,2,Apartment, Hyderabad,Kukatpally,2,
+61,4000,Semi-Furnished,80000,5,Villa, Hyderabad,Nallagandla Gachibowli,5,West facing
+62,1250,Semi-Furnished,21000,2,Apartment, Hyderabad,Kukatpally,2,
+63,3105,Furnished,80000,3,Apartment, Hyderabad,Nanakramguda,3,
+64,1050,Unfurnished,12500,2,Independent House, Hyderabad,Bapu Nagar,1,
+65,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+66,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,4,
+67,1300,Semi-Furnished,12000,2,Independent House, Hyderabad,Boduppal,2,NorthEast facing
+68,1700,Furnished,18000,2,Independent Floor, Hyderabad,Upparpally,2,West facing
+69,950,Unfurnished,8500,2,Independent House, Hyderabad,Ramachandra Puram,2,NorthEast facing
+70,1240,Semi-Furnished,22000,2,Independent Floor, Hyderabad,Kondapur,2,
+71,1800,Unfurnished,10000,2,Independent House, Hyderabad,Boduppal,2,
+72,1800,Furnished,20000,3,Apartment, Hyderabad,Uppal,3,
+73,700,Unfurnished,8000,1,Independent Floor, Hyderabad,Attapur,1,
+74,1870,Semi-Furnished,35000,3,Apartment, Hyderabad,Kokapet,3,NorthEast facing
+75,1700,Semi-Furnished,40000,3,Independent House, Hyderabad,Kothapet,4,
+76,600,Semi-Furnished,9500,1,Apartment, Hyderabad,Alwal,1,
+77,2000,Semi-Furnished,18000,3,Independent House, Hyderabad,Bolarum,2,SouthEast facing
+78,7000,Furnished,200000,5,Villa, Hyderabad,Moinabad,5,East facing
+79,1550,Semi-Furnished,19500,3,Independent Floor, Hyderabad,Puppalaguda,3,
+80,1850,Semi-Furnished,30000,4,Independent Floor, Hyderabad,Kapra,3,
+81,9900,Semi-Furnished,150000,7,Independent Floor, Hyderabad,Miyapur,2,South facing
+82,1570,Semi-Furnished,16000,3,Apartment, Hyderabad,Pragathi Nagar Kukatpally,2,
+83,1000,Semi-Furnished,10000,2,Apartment, Hyderabad,Chintalmet,2,
+84,1500,Semi-Furnished,20000,3,Apartment, Hyderabad,Somajiguda,2,
+85,1200,Unfurnished,18000,2,Independent Floor, Hyderabad,Malakpet,2,
+86,1550,Semi-Furnished,16000,2,Independent Floor, Hyderabad,Trimalgherry,2,NorthWest facing
+87,4200,Semi-Furnished,70000,4,Villa, Hyderabad,Kompally,4,
+88,1000,Semi-Furnished,10000,1,Independent Floor, Hyderabad,Kothapet,1,
+89,4500,Semi-Furnished,85000,4,Villa, Hyderabad,Kokapet,4,East facing
+90,2200,Unfurnished,22000,3,Independent Floor, Hyderabad,Habsiguda,2,
+91,900,Furnished,60000,1,Studio Apartment, Hyderabad,Mahendra Hills,1,
+92,2000,Semi-Furnished,62000,3,Apartment, Hyderabad,Kukatpally,3,
+93,2400,Unfurnished,52500,3,Apartment, Hyderabad,Gandipet,3,West facing
+94,500,Semi-Furnished,15000,1,Apartment, Hyderabad,Masab Tank,1,
+95,6000,Semi-Furnished,80000,1,Independent House, Hyderabad,East Marredpally,9,SouthEast facing
+96,950,Unfurnished,11000,2,Independent Floor, Hyderabad,Mehdipatnam,2,West facing
+97,1100,Semi-Furnished,15000,2,Apartment, Hyderabad,Tarnaka,2,
+98,2500,Semi-Furnished,60000,3,Apartment, Hyderabad,Jubilee Hills,3,
+99,2700,Semi-Furnished,45000,4,Apartment, Hyderabad,Habsiguda,4,East facing
+100,1500,Unfurnished,17000,3,Independent Floor, Hyderabad,Karwan,3,
+101,800,Unfurnished,6000,1,Independent House, Hyderabad,Medchal,1,
+102,1100,Unfurnished,11000,2,Independent Floor, Hyderabad,Banjara Hills,1,East facing
+103,450,Unfurnished,8000,1,Apartment, Hyderabad,Banjara Hills,1,East facing
+104,1100,Unfurnished,11000,2,Independent Floor, Hyderabad,Banjara Hills,1,East facing
+105,1100,Unfurnished,11000,2,Independent Floor, Hyderabad,Banjara Hills,1,East facing
+106,1100,Unfurnished,11000,2,Independent Floor, Hyderabad,Banjara Hills,1,East facing
+107,1100,Unfurnished,11000,2,Independent Floor, Hyderabad,Banjara Hills,1,East facing
+108,1100,Unfurnished,11000,2,Independent Floor, Hyderabad,Banjara Hills,1,East facing
+109,1100,Unfurnished,11000,2,Independent Floor, Hyderabad,Banjara Hills,1,
+110,450,Unfurnished,8000,1,Apartment, Hyderabad,Banjara Hills,1,East facing
+111,1503,Semi-Furnished,14500,2,Apartment, Hyderabad,East Bahadurpura,2,
+112,1500,Furnished,60000,5,Independent House, Hyderabad,Banjara Hills,4,East facing
+113,1100,Semi-Furnished,15000,2,Apartment, Hyderabad,Moosapet,2,
+114,1111,Unfurnished,8500,2,Apartment, Hyderabad,Medchal,2,
+115,450,Unfurnished,8000,1,Apartment, Hyderabad,Banjara Hills,1,East facing
+116,1000,Semi-Furnished,9500,2,Independent House, Hyderabad,Old Bowenpally,2,
+117,1000,Semi-Furnished,9500,2,Independent House, Hyderabad,Old Bowenpally,2,
+118,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+119,1250,Semi-Furnished,21000,2,Apartment, Hyderabad,Kukatpally,2,
+120,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+121,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+122,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+123,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+124,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+125,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+126,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+127,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+128,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+129,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+130,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+131,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+132,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+133,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+134,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+135,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+136,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+137,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+138,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+139,1250,Semi-Furnished,21000,3,Apartment, Hyderabad,Kukatpally,2,
+140,3105,Furnished,80000,3,Apartment, Hyderabad,Nanakramguda,3,
+141,3105,Furnished,80000,3,Apartment, Hyderabad,Nanakramguda,3,
+142,3105,Furnished,80000,3,Apartment, Hyderabad,Nanakramguda,3,
+143,3105,Furnished,80000,3,Apartment, Hyderabad,Nanakramguda,3,
+144,3105,Furnished,80000,3,Apartment, Hyderabad,Nanakramguda,3,
+145,3105,Furnished,80000,3,Apartment, Hyderabad,Nanakramguda,3,
+146,3105,Furnished,80000,3,Apartment, Hyderabad,Nanakramguda,3,
+147,3105,Furnished,80000,3,Apartment, Hyderabad,Nanakramguda,3,
+148,3000,Furnished,45000,4,Independent House, Hyderabad,Shamshabad,4,West facing
+149,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+150,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+151,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+152,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+153,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+154,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+155,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+156,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+157,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+158,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+159,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+160,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+161,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+162,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+163,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+164,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+165,1250,Semi-Furnished,16000,2,Apartment, Hyderabad,Manikonda,2,NorthEast facing
+166,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+167,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+168,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+169,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+170,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+171,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+172,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+173,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+174,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+175,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+176,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+177,900,Semi-Furnished,8000,2,Independent House, Hyderabad,Bandlaguda Jagir,2,
+178,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,3,East facing
+179,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,2,
+180,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,4,
+181,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,4,
+182,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,2,East facing
+183,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,2,East facing
+184,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,2,East facing
+185,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,2,
+186,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,3,East facing
+187,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,3,East facing
+188,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,2,East facing
+189,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,2,East facing
+190,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,2,East facing
+191,2400,Unfurnished,30000,4,Villa, Hyderabad,Nizampet,2,East facing
+192,1300,Semi-Furnished,12000,2,Independent House, Hyderabad,Boduppal,2,NorthEast facing
+193,1300,Semi-Furnished,12000,2,Independent House, Hyderabad,Boduppal,2,NorthEast facing
+194,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,North facing
+195,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,
+196,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,North facing
+197,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,North facing
+198,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,North facing
+199,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,North facing
+200,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,North facing
+201,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,North facing
+202,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,North facing
+203,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,North facing
+204,850,Semi-Furnished,8500,1,Independent House, Hyderabad,Vanasthalipuram,1,North facing
+205,1200,Semi-Furnished,18000,3,Apartment, Hyderabad,Shaikpet,3,West facing
+206,1200,Semi-Furnished,12500,2,Apartment, Hyderabad,LB Nagar,2,
+207,1500,Semi-Furnished,17000,2,Independent House, Hyderabad,Nagole,2,
+208,1200,Unfurnished,18000,2,Independent Floor, Hyderabad,Malakpet,2,
+209,2000,Semi-Furnished,45000,3,Independent Floor, Hyderabad,LB Nagar,3,
+210,2000,Semi-Furnished,25000,3,Independent House, Hyderabad,LB Nagar,4,NorthEast facing
+211,1700,Semi-Furnished,27000,3,Independent House, Hyderabad,Madhapur,3,North facing
+212,1280,Semi-Furnished,16000,2,Apartment, Hyderabad,Ameerpet,2,NorthEast facing
+213,1450,Semi-Furnished,26000,3,Apartment, Hyderabad,Lakdikapul,3,
+214,1900,Semi-Furnished,45000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+215,2800,Semi-Furnished,80000,4,Apartment, Hyderabad,Banjara Hills,4,NorthEast facing
+216,2500,Semi-Furnished,45000,3,Apartment, Hyderabad,Sri Nagar Colony,3,East facing
+217,3400,Semi-Furnished,130000,3,Apartment, Hyderabad,Banjara Hills,3,NorthWest facing
+218,2000,Furnished,45000,3,Apartment, Hyderabad,Banjara Hills,3,West facing
+219,1800,Furnished,65000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+220,2000,Furnished,45000,3,Apartment, Hyderabad,Banjara Hills,3,West facing
+221,1800,Furnished,65000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+222,1900,Semi-Furnished,45000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+223,1000,Unfurnished,12000,2,Independent House, Hyderabad,Manneguda,2,East facing
+224,9000,Semi-Furnished,500000,6,Independent House, Hyderabad,Jubilee Hills,6,
+225,1200,Semi-Furnished,17000,2,Apartment, Hyderabad,Nallakunta,2,North facing
+226,1400,Semi-Furnished,20000,2,Apartment, Hyderabad,Amberpet,2,
+227,1200,Semi-Furnished,17000,2,Apartment, Hyderabad,Nallakunta,2,North facing
+228,3000,Semi-Furnished,60000,3,Apartment, Hyderabad,Jubilee Hills,3,East facing
+229,1800,Semi-Furnished,42000,3,Apartment, Hyderabad,Banjara Hills,3,NorthWest facing
+230,3000,Semi-Furnished,75000,4,Apartment, Hyderabad,Jubilee Hills,4,NorthEast facing
+231,2500,Furnished,45000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+232,2000,Semi-Furnished,40000,3,Apartment, Hyderabad,Jubilee Hills,3,East facing
+233,3500,Furnished,100000,3,Apartment, Hyderabad,Jubilee Hills,3,
+234,2600,Furnished,75000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+235,1700,Semi-Furnished,45000,3,Apartment, Hyderabad,Banjara Hills,3,NorthWest facing
+236,550,Semi-Furnished,12000,1,Apartment, Hyderabad,Jubilee Hills,1,NorthEast facing
+237,2000,Furnished,52000,3,Apartment, Hyderabad,Banjara Hills,2,NorthEast facing
+238,2000,Furnished,50000,3,Apartment, Hyderabad,Shaikpet,3,
+239,2500,Semi-Furnished,50000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+240,550,Semi-Furnished,12000,1,Apartment, Hyderabad,Jubilee Hills,1,NorthEast facing
+241,2000,Furnished,50000,3,Apartment, Hyderabad,Shaikpet,3,East facing
+242,2500,Semi-Furnished,75000,3,Apartment, Hyderabad,Jubilee Hills,3,North facing
+243,1070,Semi-Furnished,21500,2,Apartment, Hyderabad,Jubilee Hills,2,North facing
+244,2000,Furnished,52000,3,Apartment, Hyderabad,Banjara Hills,2,NorthEast facing
+245,2000,Furnished,50000,3,Apartment, Hyderabad,Shaikpet,3,
+246,2500,Semi-Furnished,50000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+247,1000,Semi-Furnished,25000,2,Apartment, Hyderabad,Jubilee Hills,2,NorthEast facing
+248,2500,Semi-Furnished,65000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+249,2200,Furnished,40000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+250,1000,Unfurnished,10000,2,Independent Floor, Hyderabad,LB Nagar,2,East facing
+251,2450,Furnished,90000,3,Apartment, Hyderabad,Banjara Hills,3,East facing
+252,1000,Unfurnished,13000,2,Independent Floor, Hyderabad,Habsiguda,2,
+253,1100,Unfurnished,12000,2,Independent Floor, Hyderabad,Habsiguda,2,
+254,600,Unfurnished,14500,1,Apartment, Hyderabad,Adikmet,1,
+255,200,Unfurnished,6700,1,Studio Apartment, Hyderabad,Adikmet,1,
+256,7000,Furnished,250000,5,Villa, Hyderabad,Jubilee Hills,6,NorthEast facing
+257,4000,Semi-Furnished,80000,4,Apartment, Hyderabad,Narsingi,4,
+258,1200,Unfurnished,22000,1,Apartment, Hyderabad,Whisper Valley,2,
+259,700,Semi-Furnished,13000,1,Studio Apartment, Hyderabad,Hafeezpet,1,
+260,2240,Unfurnished,45000,3,Apartment, Hyderabad,Gandipet,3,
+261,2000,Semi-Furnished,45000,3,Apartment, Hyderabad,Shaikpet,3,East facing
+262,2400,Furnished,75000,3,Apartment, Hyderabad,Kondapur,3,West facing
+263,2500,Semi-Furnished,45000,3,Apartment, Hyderabad,Tellapur,3,
+264,800,Semi-Furnished,10000,1,Apartment, Hyderabad,Nallakunta,1,East facing
+265,800,Unfurnished,9500,1,Independent House, Hyderabad,Uppal,1,
+266,1000,Semi-Furnished,18000,2,Apartment, Hyderabad,Nagaram,2,
+267,700,Unfurnished,12000,1,Independent House, Hyderabad,Malkajgiri,2,
+268,2200,Semi-Furnished,47000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+269,1000,Unfurnished,11000,1,Apartment, Hyderabad,Alwal,2,
+270,2000,Furnished,62000,2,Apartment, Hyderabad,Manchirevula,3,
+271,1200,Semi-Furnished,24000,2,Apartment, Hyderabad,Hyderguda,2,
+272,1500,Semi-Furnished,35000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+273,3000,Semi-Furnished,30000,4,Apartment, Hyderabad,Tellapur,3,East facing
+274,1250,Semi-Furnished,34000,2,Independent Floor, Hyderabad,Madhapur,2,East facing
+275,878,Semi-Furnished,34000,2,Apartment, Hyderabad,Hitech City,2,East facing
+276,2160,Furnished,64000,3,Apartment, Hyderabad,Kokapet,3,East facing
+277,1200,Semi-Furnished,21000,3,Apartment, Hyderabad,Bandlaguda Jagir,3,East facing
+278,2800,Furnished,70000,4,Independent House, Hyderabad,Manikonda,4,West facing
+279,1515,Semi-Furnished,35000,3,Apartment, Hyderabad,Kokapet,3,West facing
+280,700,Unfurnished,20000,1,Apartment, Hyderabad,Himayat Nagar,2,
+281,1100,Unfurnished,14000,1,Independent House, Hyderabad,Bandlaguda Jagir,2,
+282,700,Semi-Furnished,16000,1,Studio Apartment, Hyderabad,Hafeezpet,1,
+283,1500,Semi-Furnished,15000,2,Apartment, Hyderabad,Vanasthalipuram,2,
+284,1900,Semi-Furnished,30000,3,Apartment, Hyderabad,Kondapur,3,East facing
+285,1800,Semi-Furnished,23000,2,Apartment, Hyderabad,Nagaram,3,
+286,1200,Semi-Furnished,26000,2,Apartment, Hyderabad,Jubilee Hills,2,
+287,1600,Furnished,61000,4,Apartment, Hyderabad,Hitech City,4,West facing
+288,2000,Semi-Furnished,44000,2,Independent House, Hyderabad,Kukatpally,2,North facing
+289,1800,Semi-Furnished,35000,3,Independent Floor, Hyderabad,Vijaya Nagar Colony,3,West facing
+290,4000,Semi-Furnished,74000,4,Apartment, Hyderabad,Kondapur,4,North facing
+291,1400,Semi-Furnished,44000,2,Apartment, Hyderabad,Kukatpally,2,East facing
+292,2500,Furnished,69000,4,Apartment, Hyderabad,Manikonda,4,West facing
+293,2000,Semi-Furnished,35000,3,Independent Floor, Hyderabad,Mahendra Hills,3,East facing
+294,1000,Furnished,40000,3,Apartment, Hyderabad,West Marredpally,2,North facing
+295,1100,Semi-Furnished,20000,2,Independent Floor, Hyderabad,Mahendra Hills,2,NorthEast facing
+296,1800,Semi-Furnished,39000,3,Apartment, Hyderabad,Nallagandla Gachibowli,3,West facing
+297,1300,Semi-Furnished,39000,2,Apartment, Hyderabad,Hitech City,2,East facing
+298,1950,Semi-Furnished,44000,3,Apartment, Hyderabad,Hitech City,3,NorthEast facing
+299,1800,Semi-Furnished,49000,3,Apartment, Hyderabad,Kokapet,3,West facing
+300,3500,Semi-Furnished,44000,3,Apartment, Hyderabad,Madhapur,3,East facing
+301,2200,Furnished,64000,3,Apartment, Hyderabad,Kukatpally,3,West facing
+302,2500,Semi-Furnished,69000,3,Apartment, Hyderabad,Banjara Hills,3,East facing
+303,1050,Semi-Furnished,15000,2,Apartment, Hyderabad,Hyderguda,2,
+304,1400,Semi-Furnished,44000,3,Apartment, Hyderabad,Sanath Nagar,3,East facing
+305,1798,Furnished,64000,3,Apartment, Hyderabad,Kondapur,3,West facing
+306,1450,Semi-Furnished,44000,3,Apartment, Hyderabad,Kothaguda,3,East facing
+307,1800,Semi-Furnished,30000,3,Apartment, Hyderabad,Nallakunta,3,
+308,2600,Semi-Furnished,41000,3,Apartment, Hyderabad,Nallakunta,3,North facing
+309,700,Semi-Furnished,12000,1,Studio Apartment, Hyderabad,Hafeezpet,1,
+310,550,Unfurnished,6500,1,Studio Apartment, Hyderabad,Boduppal,1,
+311,1000,Unfurnished,11000,1,Apartment, Hyderabad,Bandlaguda Jagir,2,
+312,700,Semi-Furnished,12000,1,Studio Apartment, Hyderabad,Hafeezpet,1,
+313,800,Unfurnished,13200,1,Studio Apartment, Hyderabad,Attapur,1,
+314,500,Unfurnished,9000,1,Apartment, Hyderabad,Alwal,1,
+315,1870,Semi-Furnished,45000,3,Apartment, Hyderabad,Hitech City,3,East facing
+316,2100,Semi-Furnished,35000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+317,1475,Semi-Furnished,38000,3,Apartment, Hyderabad,Hitech City,3,East facing
+318,1800,Semi-Furnished,38000,3,Apartment, Hyderabad,Madhapur,3,NorthEast facing
+319,2300,Semi-Furnished,48000,3,Apartment, Hyderabad,Nanakramguda,3,West facing
+320,1670,Semi-Furnished,40000,3,Apartment, Hyderabad,Kondapur,3,East facing
+321,2000,Semi-Furnished,54000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+322,1650,Semi-Furnished,44000,3,Apartment, Hyderabad,Hitech City,3,East facing
+323,1336,Semi-Furnished,54000,3,Apartment, Hyderabad,Narsingi,3,East facing
+324,1700,Semi-Furnished,34000,3,Apartment, Hyderabad,Gachibowli,3,East facing
+325,2100,Semi-Furnished,49000,3,Apartment, Hyderabad,Kokapet,3,NorthEast facing
+326,1400,Semi-Furnished,34000,2,Apartment, Hyderabad,Chandanagar,2,East facing
+327,1380,Furnished,31000,2,Apartment, Hyderabad,Begumpet,2,East facing
+328,1500,Furnished,59000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+329,2100,Semi-Furnished,44000,3,Apartment, Hyderabad,Tellapur,3,East facing
+330,892,Semi-Furnished,41000,2,Apartment, Hyderabad,Gachibowli,2,East facing
+331,2400,Semi-Furnished,29000,4,Apartment, Hyderabad,Tellapur,3,East facing
+332,1300,Furnished,17000,2,Apartment, Hyderabad,Vanasthalipuram,2,
+333,1200,Semi-Furnished,16000,1,Apartment, Hyderabad,Amberpet,2,
+334,1400,Semi-Furnished,22500,1,Apartment, Hyderabad,Puppalaguda,2,
+335,180,Furnished,7200,1,Apartment, Hyderabad,Pocharam,1,
+336,1450,Semi-Furnished,32000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+337,2300,Semi-Furnished,70000,3,Apartment, Hyderabad,Nanakramguda,3,West facing
+338,2218,Semi-Furnished,55000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+339,1845,Semi-Furnished,45000,3,Apartment, Hyderabad,Narsingi,3,East facing
+340,2160,Semi-Furnished,50000,3,Apartment, Hyderabad,Gachibowli,3,East facing
+341,1745,Semi-Furnished,50000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+342,1750,Semi-Furnished,35000,3,Apartment, Hyderabad,Sanath Nagar,3,East facing
+343,1670,Semi-Furnished,40000,3,Apartment, Hyderabad,Kokapet,3,West facing
+344,1745,Semi-Furnished,35000,3,Apartment, Hyderabad,Madhapur,3,
+345,1800,Semi-Furnished,30000,3,Apartment, Hyderabad,Himayat Nagar,3,North facing
+346,1963,Semi-Furnished,35000,3,Apartment, Hyderabad,Banjara Hills,3,East facing
+347,1410,Semi-Furnished,29610,3,Apartment, Hyderabad,Somajiguda,2,NorthEast facing
+348,1150,Semi-Furnished,13800,2,Apartment, Hyderabad,Kukatpally,2,NorthEast facing
+349,2045,Semi-Furnished,40000,3,Apartment, Hyderabad,Hitech City,3,NorthEast facing
+350,1670,Semi-Furnished,38000,3,Apartment, Hyderabad,Nallagandla Gachibowli,3,East facing
+351,1475,Semi-Furnished,40000,3,Apartment, Hyderabad,Serilingampally,3,West facing
+352,1545,Semi-Furnished,38000,3,Apartment, Hyderabad,Hitech City,3,East facing
+353,1600,Semi-Furnished,38000,3,Independent Floor, Hyderabad,Kondapur,3,West facing
+354,2000,Semi-Furnished,50000,3,Apartment, Hyderabad,Banjara Hills,3,East facing
+355,1100,Semi-Furnished,18000,2,Apartment, Hyderabad,Nallakunta,2,East facing
+356,1650,Semi-Furnished,25000,3,Apartment, Hyderabad,Mahendra Hills,3,NorthEast facing
+357,7000,Semi-Furnished,100000,1,Independent House, Hyderabad,Habsiguda,9,
+358,3500,Furnished,40000,3,Independent Floor, Hyderabad,Habsiguda,4,
+359,1600,Semi-Furnished,25000,3,Apartment, Hyderabad,Nallakunta,3,East facing
+360,2200,Semi-Furnished,55000,4,Apartment, Hyderabad,Masab Tank,3,
+361,1650,Semi-Furnished,30000,3,Apartment, Hyderabad,West Marredpally,3,West facing
+362,1000,Semi-Furnished,39000,2,Apartment, Hyderabad,Kondapur,2,East facing
+363,2000,Semi-Furnished,54000,3,Apartment, Hyderabad,Nanakramguda,3,West facing
+364,2000,Semi-Furnished,54056,3,Apartment, Hyderabad,Narsingi,3,East facing
+365,1400,Furnished,44000,3,Apartment, Hyderabad,Narsingi,3,East facing
+366,2100,Furnished,69000,3,Apartment, Hyderabad,Hitech City,3,East facing
+367,1400,Semi-Furnished,39000,3,Apartment, Hyderabad,Narsingi,3,West facing
+368,1200,Unfurnished,15000,2,Apartment, Hyderabad,Chintalmet,2,
+369,900,Furnished,15000,1,Studio Apartment, Hyderabad,Jai Suryapatnam,1,
+370,1800,Semi-Furnished,30000,3,Apartment, Hyderabad,Amberpet,3,East facing
+371,1800,Semi-Furnished,30000,3,Apartment, Hyderabad,Masab Tank,3,West facing
+372,1200,Semi-Furnished,18000,2,Apartment, Hyderabad,Himayat Nagar,2,East facing
+373,1700,Semi-Furnished,27000,3,Apartment, Hyderabad,Amberpet,3,
+374,1700,Semi-Furnished,27000,3,Apartment, Hyderabad,Himayat Nagar,3,East facing
+375,4650,Furnished,150000,5,Apartment, Hyderabad,Kokapet,5,NorthEast facing
+376,3750,Semi-Furnished,80000,4,Apartment, Hyderabad,Narsingi,4,NorthEast facing
+377,2700,Semi-Furnished,30500,3,Apartment, Hyderabad,Lakdikapul,4,East facing
+378,1000,Unfurnished,14000,2,Apartment, Hyderabad,Habsiguda,2,
+379,1450,Semi-Furnished,35000,3,Apartment, Hyderabad,Hitech City,3,East facing
+380,1200,Furnished,33500,1,Apartment, Hyderabad,Khairatabad Road,2,
+381,1525,Semi-Furnished,21000,2,Apartment, Hyderabad,Hakimpet,3,
+382,500,Unfurnished,7800,1,Apartment, Hyderabad,Erragadda,1,
+383,900,Unfurnished,12000,1,Apartment, Hyderabad,Moosapet,1,
+384,1800,Semi-Furnished,35500,2,Apartment, Hyderabad,Karkhana,3,
+385,2800,Semi-Furnished,80000,4,Apartment, Hyderabad,Gachibowli,4,East facing
+386,1265,Semi-Furnished,35000,2,Apartment, Hyderabad,Chandanagar,2,West facing
+387,1800,Semi-Furnished,38000,3,Apartment, Hyderabad,Whitefield,3,East facing
+388,1800,Semi-Furnished,55000,3,Apartment, Hyderabad,Kondapur,3,East facing
+389,1600,Furnished,60000,4,Apartment, Hyderabad,Hitech City,4,West facing
+390,1600,Semi-Furnished,45000,3,Apartment, Hyderabad,Kondapur,3,
+391,1800,Semi-Furnished,60000,3,Apartment, Hyderabad,Kondapur,3,East facing
+392,2800,Semi-Furnished,60000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+393,2500,Furnished,65000,3,Apartment, Hyderabad,Kukatpally,3,West facing
+394,4500,Semi-Furnished,60000,4,Independent House, Hyderabad,West Marredpally,4,East facing
+395,1450,Semi-Furnished,64000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+396,4500,Semi-Furnished,79000,4,Apartment, Hyderabad,Somajiguda,4,East facing
+397,1400,Semi-Furnished,54000,3,Apartment, Hyderabad,Kondapur,3,East facing
+398,1200,Semi-Furnished,22000,2,Apartment, Hyderabad,Mehdipatnam,2,
+399,1150,Semi-Furnished,22300,2,Apartment, Hyderabad,Upparpally,2,
+400,3500,Furnished,124000,4,Apartment, Hyderabad,Gopanpally,4,
+401,2293,Semi-Furnished,92000,4,Apartment, Hyderabad,Madhapur,4,East facing
+402,1215,Semi-Furnished,34000,3,Apartment, Hyderabad,Kukatpally,2,East facing
+403,1200,Semi-Furnished,34000,2,Apartment, Hyderabad,Hitech City,2,East facing
+404,1700,Semi-Furnished,39000,3,Apartment, Hyderabad,Gachibowli,3,East facing
+405,1200,Semi-Furnished,25000,2,Apartment, Hyderabad,Gachibowli,2,East facing
+406,1358,Furnished,54039,3,Apartment, Hyderabad,Narsingi,3,East facing
+407,1845,Semi-Furnished,51000,3,Apartment, Hyderabad,Narsingi,3,East facing
+408,1100,Semi-Furnished,15000,2,Apartment, Hyderabad,Nallakunta,2,East facing
+409,1750,Semi-Furnished,30000,3,Apartment, Hyderabad,Mahendra Hills,3,East facing
+410,900,Furnished,15000,1,Apartment, Hyderabad,Nadergul,1,
+411,1850,Semi-Furnished,55000,3,Apartment, Hyderabad,Manikonda,3,NorthEast facing
+412,1800,Semi-Furnished,32000,3,Apartment, Hyderabad,Nallakunta,3,North facing
+413,8300,Semi-Furnished,100000,1,Independent House, Hyderabad,Old Bowenpally,9,NorthEast facing
+414,2200,Semi-Furnished,45000,3,Apartment, Hyderabad,Banjara Hills,3,East facing
+415,2300,Semi-Furnished,45000,3,Apartment, Hyderabad,Jubilee Hills,3,NorthEast facing
+416,2500,Furnished,60000,3,Apartment, Hyderabad,Jubilee Hills,3,West facing
+417,800,Semi-Furnished,16000,2,Apartment, Hyderabad,Jubilee Hills,2,South facing
+418,2000,Semi-Furnished,57000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+419,2000,Semi-Furnished,31000,3,Apartment, Hyderabad,Tellapur,3,East facing
+420,2400,Semi-Furnished,44000,3,Apartment, Hyderabad,Tellapur,3,East facing
+421,2000,Semi-Furnished,69000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+422,1845,Semi-Furnished,50000,3,Apartment, Hyderabad,Gachibowli,3,East facing
+423,2000,Semi-Furnished,64999,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+424,2160,Furnished,65000,3,Apartment, Hyderabad,Kokapet,3,East facing
+425,1270,Semi-Furnished,43000,2,Apartment, Hyderabad,Gachibowli,2,East facing
+426,1750,Semi-Furnished,55000,3,Apartment, Hyderabad,Hitech City,3,East facing
+427,1650,Semi-Furnished,45000,3,Apartment, Hyderabad,Kondapur,3,East facing
+428,1850,Semi-Furnished,65000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+429,2360,Semi-Furnished,70000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+430,2050,Semi-Furnished,35000,3,Apartment, Hyderabad,Nallagandla Gachibowli,3,East facing
+431,1850,Furnished,35000,3,Apartment, Hyderabad,West Marredpally,3,
+432,3000,Semi-Furnished,40000,4,Independent House, Hyderabad,Mallampet,4,East facing
+433,5000,Semi-Furnished,100000,5,Villa, Hyderabad,Jubilee Hills,5,
+434,1500,Semi-Furnished,63000,3,Apartment, Hyderabad,Gachibowli,3,East facing
+435,600,Unfurnished,8000,1,Independent Floor, Hyderabad,Masab Tank,1,
+436,1500,Semi-Furnished,41000,3,Apartment, Hyderabad,Hitech City,2,East facing
+437,2200,Semi-Furnished,45000,3,Apartment, Hyderabad,Tellapur,3,East facing
+438,1798,Furnished,60000,3,Apartment, Hyderabad,Kondapur,3,West facing
+439,2140,Furnished,65000,4,Apartment, Hyderabad,Manikonda,4,West facing
+440,1600,Semi-Furnished,49000,3,Apartment, Hyderabad,Kondapur,3,East facing
+441,1600,Semi-Furnished,54000,3,Apartment, Hyderabad,Kondapur,3,East facing
+442,1700,Furnished,64000,4,Apartment, Hyderabad,Manikonda,4,East facing
+443,878,Semi-Furnished,34000,2,Apartment, Hyderabad,Hitech City,2,East facing
+444,1400,Furnished,57000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+445,1800,Semi-Furnished,44000,3,Apartment, Hyderabad,Kondapur,3,East facing
+446,878,Semi-Furnished,39000,2,Apartment, Hyderabad,Hitech City,2,East facing
+447,2300,Semi-Furnished,31000,3,Apartment, Hyderabad,Tellapur,3,East facing
+448,987,Semi-Furnished,64000,3,Apartment, Hyderabad,Tellapur,3,East facing
+449,1500,Semi-Furnished,23000,3,Apartment, Hyderabad,Masab Tank,4,East facing
+450,2200,Semi-Furnished,94000,4,Independent House, Hyderabad,Sri Nagar Colony,4,NorthEast facing
+451,1600,Semi-Furnished,34000,2,Apartment, Hyderabad,Nallagandla Gachibowli,2,East facing
+452,1300,Semi-Furnished,37000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+453,1000,Semi-Furnished,40000,2,Apartment, Hyderabad,Madhapur,2,North facing
+454,1098,Semi-Furnished,34000,3,Apartment, Hyderabad,Hitech City,3,East facing
+455,1000,Semi-Furnished,40000,2,Apartment, Hyderabad,Madhapur,2,
+456,1496,Furnished,44000,2,Apartment, Hyderabad,Kondapur,2,West facing
+457,3500,Furnished,44000,4,Apartment, Hyderabad,Nizampet,4,East facing
+458,3500,Semi-Furnished,48000,4,Apartment, Hyderabad,Nizampet,4,East facing
+459,1136,Semi-Furnished,44000,3,Apartment, Hyderabad,Hitech City,3,East facing
+460,3300,Semi-Furnished,80000,4,Apartment, Hyderabad,Nanakramguda,4,East facing
+461,2200,Semi-Furnished,60000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+462,1900,Semi-Furnished,67000,2,Independent House, Hyderabad,Manikonda,2,East facing
+463,2680,Semi-Furnished,74000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+464,2140,Furnished,65001,4,Independent House, Hyderabad,Manikonda,4,West facing
+465,1375,Semi-Furnished,34000,2,Apartment, Hyderabad,Serilingampally,2,West facing
+466,600,Semi-Furnished,16000,1,Apartment, Hyderabad,Kondapur,1,
+467,1750,Semi-Furnished,55000,3,Apartment, Hyderabad,Hitech City,3,East facing
+468,2100,Semi-Furnished,45000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+469,3300,Semi-Furnished,80000,4,Apartment, Hyderabad,Nanakramguda,4,East facing
+470,2200,Semi-Furnished,60000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+471,1270,Semi-Furnished,43000,2,Apartment, Hyderabad,Gachibowli,2,East facing
+472,1470,Semi-Furnished,45000,3,Apartment, Hyderabad,Gachibowli,3,NorthEast facing
+473,2100,Semi-Furnished,45000,3,Apartment, Hyderabad,Kokapet,3,East facing
+474,1798,Furnished,60000,3,Apartment, Hyderabad,Kondapur,3,West facing
+475,1000,Furnished,34000,2,Apartment, Hyderabad,Kukatpally,2,East facing
+476,3000,Semi-Furnished,79000,4,Apartment, Hyderabad,Madhapur,4,North facing
+477,3500,Semi-Furnished,59000,3,Apartment, Hyderabad,Banjara Hills,3,East facing
+478,2800,Semi-Furnished,59000,3,Apartment, Hyderabad,Nanakramguda,3,
+479,1800,Furnished,37000,3,Apartment, Hyderabad,Whitefield,3,East facing
+480,1450,Semi-Furnished,25000,2,Apartment, Hyderabad,Mahendra Hills,2,West facing
+481,2100,Semi-Furnished,45000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+482,1650,Semi-Furnished,45000,3,Apartment, Hyderabad,Hitech City,3,NorthEast facing
+483,3600,Furnished,70000,4,Apartment, Hyderabad,Narsingi,4,East facing
+484,2100,Furnished,70000,3,Apartment, Hyderabad,Hitech City,3,NorthEast facing
+485,2970,Semi-Furnished,45000,3,Apartment, Hyderabad,Tellapur,3,East facing
+486,2400,Semi-Furnished,32000,3,Apartment, Hyderabad,Tellapur,3,East facing
+487,1600,Semi-Furnished,54000,3,Apartment, Hyderabad,Kondapur,3,East facing
+488,1492,Semi-Furnished,48889,3,Apartment, Hyderabad,Gachibowli,2,North facing
+489,1700,Semi-Furnished,18500,2,Independent House, Hyderabad,AS Rao Nagar,3,
+490,1200,Unfurnished,12500,1,Apartment, Hyderabad,Meerpet,1,
+491,900,Semi-Furnished,14000,2,Apartment, Hyderabad,Vanasthalipuram,2,East facing
+492,1450,Semi-Furnished,44000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+493,4000,Semi-Furnished,79000,4,Apartment, Hyderabad,Nanakramguda,4,East facing
+494,3765,Furnished,79000,4,Apartment, Hyderabad,Narsingi,4,East facing
+495,1400,Semi-Furnished,54000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+496,2350,Furnished,69000,3,Apartment, Hyderabad,Hitech City,3,North facing
+497,1136,Semi-Furnished,46000,3,Apartment, Hyderabad,Hitech City,3,West facing
+498,1100,Semi-Furnished,39000,2,Apartment, Hyderabad,Kondapur,2,East facing
+499,1600,Furnished,49000,3,Apartment, Hyderabad,Madhapur,3,East facing
+500,1345,Semi-Furnished,29000,2,Apartment, Hyderabad,Pragathi Nagar Kukatpally,2,East facing
+501,1050,Semi-Furnished,37000,2,Independent Floor, Hyderabad,Banjara Hills,2,East facing
+502,2000,Semi-Furnished,71000,3,Apartment, Hyderabad,Hitech City,3,East facing
+503,4700,Semi-Furnished,179000,4,Apartment, Hyderabad,Nanakramguda,4,North facing
+504,2000,Semi-Furnished,62000,4,Apartment, Hyderabad,Gachibowli,3,East facing
+505,2522,Semi-Furnished,119000,4,Apartment, Hyderabad,Gachibowli,4,West facing
+506,1000,Semi-Furnished,37000,2,Apartment, Hyderabad,Nallagandla Gachibowli,2,West facing
+507,1295,Semi-Furnished,37000,2,Apartment, Hyderabad,Kukatpally,2,East facing
+508,1410,Semi-Furnished,44000,3,Apartment, Hyderabad,Gachibowli,2,East facing
+509,1100,Furnished,47000,2,Apartment, Hyderabad,Kukatpally,2,West facing
+510,1700,Semi-Furnished,60000,3,Apartment, Hyderabad,Gachibowli,2,West facing
+511,3300,Semi-Furnished,44000,4,Villa, Hyderabad,Shanthi Nagar,4,North facing
+512,1100,Semi-Furnished,32000,2,Apartment, Hyderabad,Rajendra Nagar,2,West facing
+513,2000,Semi-Furnished,86000,3,Apartment, Hyderabad,Madhapur,3,East facing
+514,1500,Semi-Furnished,26000,3,Apartment, Hyderabad,Amberpet,3,East facing
+515,4000,Unfurnished,49000,4,Apartment, Hyderabad,Osman Nagar,4,East facing
+516,1600,Semi-Furnished,39000,3,Apartment, Hyderabad,Kukatpally,3,West facing
+517,1784,Furnished,29000,3,Apartment, Hyderabad,Tellapur,3,East facing
+518,1500,Furnished,41000,3,Apartment, Hyderabad,Kukatpally,3,NorthEast facing
+519,1000,Semi-Furnished,24000,2,Apartment, Hyderabad,Bachupally,2,NorthEast facing
+520,2000,Semi-Furnished,71000,3,Apartment, Hyderabad,Hitech City,3,East facing
+521,3300,Semi-Furnished,44000,4,Villa, Hyderabad,Shanthi Nagar,4,North facing
+522,1100,Semi-Furnished,32000,2,Apartment, Hyderabad,Rajendra Nagar,2,West facing
+523,2000,Semi-Furnished,86000,3,Apartment, Hyderabad,Madhapur,3,East facing
+524,1136,Semi-Furnished,46000,3,Apartment, Hyderabad,Hitech City,3,West facing
+525,1410,Semi-Furnished,44000,3,Apartment, Hyderabad,Gachibowli,2,East facing
+526,1100,Furnished,47000,2,Apartment, Hyderabad,Kukatpally,2,West facing
+527,1000,Semi-Furnished,37000,2,Apartment, Hyderabad,Nallagandla Gachibowli,2,West facing
+528,2200,Semi-Furnished,45000,3,Apartment, Hyderabad,Tellapur,3,East facing
+529,2600,Furnished,119000,3,Apartment, Hyderabad,Hitech City,3,West facing
+530,2700,Semi-Furnished,29000,3,Villa, Hyderabad,Nizampet,3,West facing
+531,1116,Semi-Furnished,47000,3,Apartment, Hyderabad,Hitech City,3,East facing
+532,1798,Semi-Furnished,50000,3,Apartment, Hyderabad,Kondapur,3,East facing
+533,1600,Semi-Furnished,35000,3,Independent Floor, Hyderabad,Kondapur,3,North facing
+534,1366,Semi-Furnished,65000,4,Apartment, Hyderabad,Gachibowli,3,East facing
+535,3000,Semi-Furnished,42000,4,Independent House, Hyderabad,Mallampet,4,East facing
+536,1945,Furnished,62009,3,Apartment, Hyderabad,Gachibowli,3,North facing
+537,1650,Semi-Furnished,44000,3,Apartment, Hyderabad,Hitech City,3,East facing
+538,2100,Semi-Furnished,56000,3,Apartment, Hyderabad,Manikonda,3,East facing
+539,1800,Semi-Furnished,39000,2,Apartment, Hyderabad,Kondapur,2,East facing
+540,1298,Semi-Furnished,31000,2,Apartment, Hyderabad,Saroor Nagar,2,North facing
+541,1798,Semi-Furnished,52000,3,Independent Floor, Hyderabad,Kondapur,3,East facing
+542,854,Semi-Furnished,37000,2,Apartment, Hyderabad,Hitech City,2,East facing
+543,1945,Furnished,60000,3,Apartment, Hyderabad,Gachibowli,3,North facing
+544,1265,Semi-Furnished,28000,2,Apartment, Hyderabad,Chandanagar,2,West facing
+545,1366,Semi-Furnished,65000,4,Apartment, Hyderabad,Gachibowli,3,East facing
+546,2970,Semi-Furnished,45000,3,Apartment, Hyderabad,Tellapur,3,East facing
+547,2100,Semi-Furnished,55000,3,Apartment, Hyderabad,Manikonda,3,East facing
+548,2400,Semi-Furnished,32000,3,Apartment, Hyderabad,Tellapur,3,East facing
+549,1798,Semi-Furnished,50000,3,Apartment, Hyderabad,Kondapur,3,East facing
+550,1600,Semi-Furnished,35000,3,Apartment, Hyderabad,Kondapur,3,
+551,1800,Semi-Furnished,49000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+552,1650,Semi-Furnished,45000,3,Apartment, Hyderabad,Kondapur,3,East facing
+553,1650,Semi-Furnished,45000,3,Apartment, Hyderabad,Hitech City,3,East facing
+554,1850,Semi-Furnished,65000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+555,1800,Semi-Furnished,45000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+556,1798,Semi-Furnished,54000,3,Apartment, Hyderabad,Kondapur,3,NorthEast facing
+557,3000,Semi-Furnished,42000,4,Apartment, Hyderabad,Mallampet,4,East facing
+558,1945,Semi-Furnished,59000,3,Apartment, Hyderabad,Hitech City,3,East facing
+559,1558,Semi-Furnished,59000,3,Apartment, Hyderabad,Hitech City,3,East facing
+560,1558,Semi-Furnished,59000,3,Apartment, Hyderabad,Hitech City,3,East facing
+561,1380,Semi-Furnished,27000,2,Apartment, Hyderabad,Miyapur,2,East facing
+562,1000,Semi-Furnished,23000,2,Apartment, Hyderabad,Kukatpally,2,West facing
+563,2140,Furnished,65000,4,Independent House, Hyderabad,Manikonda,4,West facing
+564,1283,Unfurnished,31000,2,Apartment, Hyderabad,Gachibowli,2,East facing
+565,1500,Semi-Furnished,63000,3,Apartment, Hyderabad,Gachibowli,3,East facing
+566,3600,Furnished,70000,4,Apartment, Hyderabad,Narsingi,4,East facing
+567,600,Furnished,17000,1,Apartment, Hyderabad,Gowlidody,1,NorthEast facing
+568,3500,Semi-Furnished,48000,4,Apartment, Hyderabad,Nizampet,4,East facing
+569,2160,Furnished,65000,3,Apartment, Hyderabad,Kokapet,3,East facing
+570,1116,Semi-Furnished,47000,3,Apartment, Hyderabad,Hitech City,3,West facing
+571,2360,Semi-Furnished,70000,3,Apartment, Hyderabad,Nanakramguda,3,NorthEast facing
+572,1350,Semi-Furnished,22000,3,Apartment, Hyderabad,Hyderguda,2,
+573,1050,Semi-Furnished,18000,2,Apartment, Hyderabad,Lakdikapul,2,East facing
+574,1417,Semi-Furnished,15600,1,Apartment, Hyderabad,Qutub Shahi Tombs,2,
+575,1200,Semi-Furnished,12000,1,Studio Apartment, Hyderabad,Hastinapuram,2,
+576,400,Semi-Furnished,10000,1,Apartment, Hyderabad,Meerpet,2,
+577,1100,Unfurnished,20000,1,Apartment, Hyderabad,Upparpally,2,
+578,200,Furnished,17300,1,Apartment, Hyderabad,Manikonda,1,
+579,1000,Unfurnished,11000,1,Apartment, Hyderabad,Bandlaguda Jagir,2,
+580,1100,Unfurnished,18700,1,Apartment, Hyderabad,Attapur,2,
+581,1400,Semi-Furnished,20000,3,Apartment, Hyderabad,Khairatabad Road,2,North facing
+582,1188,Semi-Furnished,64000,3,Apartment, Hyderabad,Hitech City,3,East facing
+583,1800,Semi-Furnished,49000,3,Apartment, Hyderabad,Nallagandla Gachibowli,3,East facing
+584,2500,Furnished,39000,4,Independent House, Hyderabad,Kokapet,5,
+585,1050,Unfurnished,15000,2,Independent Floor, Hyderabad,Nampally,2,North facing
+586,750,Unfurnished,10000,1,Independent Floor, Hyderabad,Masab Tank,1,
+587,1800,Unfurnished,21000,2,Apartment, Hyderabad,Kanchan Bagh,2,
+588,1315,Semi-Furnished,49000,3,Independent Floor, Hyderabad,Gachibowli,3,East facing
+589,4200,Semi-Furnished,129000,4,Villa, Hyderabad,Narsingi,4,West facing
+590,1297,Semi-Furnished,39000,2,Apartment, Hyderabad,Kondapur,2,West facing
+591,1558,Semi-Furnished,59000,3,Apartment, Hyderabad,Hitech City,3,West facing
+592,1798,Semi-Furnished,54000,3,Apartment, Hyderabad,Kondapur,3,East facing
+593,1345,Semi-Furnished,59000,3,Apartment, Hyderabad,Hitech City,3,East facing
+594,1257,Semi-Furnished,40000,2,Apartment, Hyderabad,Nallagandla Gachibowli,2,East facing
+595,1265,Semi-Furnished,28000,2,Apartment, Hyderabad,Chandanagar,2,West facing
+596,2970,Semi-Furnished,45000,3,Apartment, Hyderabad,Tellapur,3,NorthEast facing
+597,1650,Semi-Furnished,45000,3,Apartment, Hyderabad,Kondapur,3,East facing
+598,1798,Semi-Furnished,50000,3,Apartment, Hyderabad,Kondapur,3,East facing
+599,1650,Semi-Furnished,45000,3,Apartment, Hyderabad,Hitech City,3,West facing
+600,3300,Semi-Furnished,70000,4,Apartment, Hyderabad,Nanakramguda,4,East facing
+601,2200,Semi-Furnished,50000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+602,1270,Semi-Furnished,35000,2,Apartment, Hyderabad,Gachibowli,2,East facing
+603,2160,Furnished,55000,3,Apartment, Hyderabad,Kokapet,3,East facing
+604,1738,Semi-Furnished,60000,3,Apartment, Hyderabad,Hitech City,3,East facing
+605,1200,Semi-Furnished,30000,2,Apartment, Hyderabad,Bachupally,2,NorthEast facing
+606,1600,Semi-Furnished,35000,3,Independent Floor, Hyderabad,Kondapur,3,North facing
+607,3000,Semi-Furnished,42000,4,Apartment, Hyderabad,Mallampet,4,East facing
+608,1993,Semi-Furnished,60000,4,Apartment, Hyderabad,Gachibowli,3,East facing
+609,1150,Semi-Furnished,23000,2,Apartment, Hyderabad,Lakdikapul,2,North facing
+610,1100,Unfurnished,18000,2,Apartment, Hyderabad,Vijaya Nagar Colony,2,
+611,1350,Unfurnished,20000,3,Apartment, Hyderabad,Vijaya Nagar Colony,3,East facing
+612,1206,Semi-Furnished,60000,3,Apartment, Hyderabad,Gachibowli,3,West facing
+613,1700,Unfurnished,25000,3,Independent Floor, Hyderabad,Vijaya Nagar Colony,2,North facing
+614,1050,Unfurnished,17000,2,Apartment, Hyderabad,Mehdipatnam,2,
+615,1450,Semi-Furnished,29000,3,Independent Floor, Hyderabad,Banjara Hills,3,West facing
+616,1283,Unfurnished,32000,2,Apartment, Hyderabad,Gachibowli,2,East facing
+617,3400,Furnished,180000,3,Apartment, Hyderabad,Madhapur,3,West facing
+618,750,Unfurnished,10000,2,Independent Floor, Hyderabad,Masab Tank,1,
+619,900,Unfurnished,12000,2,Independent Floor, Hyderabad,Masab Tank,1,North facing
+620,1750,Furnished,65000,3,Apartment, Hyderabad,Banjara Hills,3,
+621,1750,Furnished,55000,3,Apartment, Hyderabad,Begumpet,3,
+622,2200,Semi-Furnished,55000,3,Apartment, Hyderabad,Jubilee Hills,2,NorthWest facing
+623,2500,Semi-Furnished,45000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+624,1350,Unfurnished,16700,3,Independent Floor, Hyderabad,Lakdikapul,2,North facing
+625,2200,Semi-Furnished,45000,3,Apartment, Hyderabad,Tellapur,3,West facing
+626,1435,Semi-Furnished,63000,3,Apartment, Hyderabad,Gachibowli,3,East facing
+627,1798,Furnished,60000,3,Apartment, Hyderabad,Kondapur,3,West facing
+628,1945,Semi-Furnished,68000,3,Apartment, Hyderabad,Hitech City,3,East facing
+629,1650,Semi-Furnished,49000,3,Apartment, Hyderabad,Hitech City,3,East facing
+630,1850,Semi-Furnished,50000,3,Apartment, Hyderabad,Nallagandla Gachibowli,3,East facing
+631,1100,Semi-Furnished,38000,2,Apartment, Hyderabad,Nallagandla Gachibowli,2,West facing
+632,1200,Furnished,48000,2,Apartment, Hyderabad,Kukatpally,2,West facing
+633,1283,Unfurnished,32000,2,Apartment, Hyderabad,Gachibowli,2,East facing
+634,1100,Semi-Furnished,45000,3,Apartment, Hyderabad,Gachibowli,2,East facing
+635,1800,Semi-Furnished,45000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+636,878,Semi-Furnished,34000,2,Apartment, Hyderabad,Hitech City,2,East facing
+637,1800,Semi-Furnished,38000,3,Apartment, Hyderabad,Kukatpally,3,East facing
+638,1000,Semi-Furnished,37000,2,Apartment, Hyderabad,Chandanagar,2,West facing
+639,1018,Semi-Furnished,47000,2,Apartment, Hyderabad,Gachibowli,2,West facing
+640,1366,Semi-Furnished,69000,3,Apartment, Hyderabad,Gachibowli,3,East facing
+641,1900,Semi-Furnished,59000,3,Apartment, Hyderabad,Hitech City,3,East facing
+642,1100,Semi-Furnished,23000,2,Apartment, Hyderabad,Lakdikapul,2,North facing
+643,1200,Semi-Furnished,20000,2,Apartment, Hyderabad,Himayat Nagar,2,East facing
+644,2100,Semi-Furnished,55000,3,Apartment, Hyderabad,Manikonda,3,East facing
+645,1945,Furnished,60000,3,Apartment, Hyderabad,Gachibowli,3,North facing
+646,4500,Furnished,150000,4,Villa, Hyderabad,Gachibowli,4,
+647,1800,Semi-Furnished,30000,3,Apartment, Hyderabad,Nallakunta,3,East facing
+648,1945,Semi-Furnished,59000,3,Apartment, Hyderabad,Hitech City,3,East facing
+649,1400,Semi-Furnished,25000,3,Apartment, Hyderabad,Toli Chowki,2,East facing
+650,1200,Semi-Furnished,23000,2,Apartment, Hyderabad,Miyapur,2,East facing
+651,1515,Semi-Furnished,37000,3,Apartment, Hyderabad,Kokapet,3,West facing
+652,3000,Furnished,39000,2,Independent House, Hyderabad,Madhapur,2,East facing
+653,1400,Semi-Furnished,27000,2,Apartment, Hyderabad,Bachupally,2,East facing
+654,700,Semi-Furnished,14000,1,Apartment, Hyderabad,Kondapur,1,NorthEast facing
+655,6000,Furnished,290000,6,Independent House, Hyderabad,Banjara Hills,6,
+656,1950,Semi-Furnished,39000,3,Villa, Hyderabad,Hitech City,2,East facing
+657,1345,Semi-Furnished,59000,3,Apartment, Hyderabad,Hitech City,3,East facing
+658,3000,Semi-Furnished,44000,4,Apartment, Hyderabad,Tellapur,4,West facing
+659,2000,Semi-Furnished,60000,3,Apartment, Hyderabad,Hitech City,3,East facing
+660,900,Unfurnished,11000,2,Independent House, Hyderabad,Mehdipatnam,2,East facing
+661,1350,Unfurnished,15000,3,Independent Floor, Hyderabad,Vijaya Nagar Colony,2,West facing
+662,1275,Semi-Furnished,34000,2,Apartment, Hyderabad,Kukatpally,2,North facing
+663,1600,Semi-Furnished,34000,3,Independent Floor, Hyderabad,Kondapur,3,North facing
+664,1000,Semi-Furnished,34000,2,Apartment, Hyderabad,Hitech City,2,East facing
+665,1600,Semi-Furnished,49000,3,Apartment, Hyderabad,Kondapur,3,East facing
+666,1648,Furnished,49000,3,Apartment, Hyderabad,Kondapur,2,East facing
+667,1650,Semi-Furnished,44000,3,Apartment, Hyderabad,Kondapur,3,East facing
+668,1492,Semi-Furnished,47999,3,Apartment, Hyderabad,Gachibowli,2,West facing
+669,1715,Semi-Furnished,54000,3,Apartment, Hyderabad,Kondapur,3,East facing
+670,1715,Semi-Furnished,54000,3,Apartment, Hyderabad,Kondapur,3,East facing
+671,2300,Semi-Furnished,51000,3,Apartment, Hyderabad,Kokapet,3,East facing
+672,3600,Semi-Furnished,89000,4,Independent Floor, Hyderabad,Madhapur,4,North facing
+673,1300,Unfurnished,13000,3,Apartment, Hyderabad,Kowkur,3,West facing
+674,1250,Semi-Furnished,34000,2,Apartment, Hyderabad,Hitech City,2,East facing
+675,2200,Furnished,54000,3,Apartment, Hyderabad,Kukatpally,2,East facing
+676,4000,Semi-Furnished,79000,3,Independent Floor, Hyderabad,Kukatpally,3,East facing
+677,1265,Semi-Furnished,28000,2,Apartment, Hyderabad,Chandanagar,2,West facing
+678,1800,Semi-Furnished,45000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+679,1470,Semi-Furnished,45000,3,Apartment, Hyderabad,Gachibowli,2,NorthEast facing
+680,2100,Semi-Furnished,45000,3,Apartment, Hyderabad,Kokapet,3,East facing
+681,350,Unfurnished,5500,1,Studio Apartment, Hyderabad,Amberpet,1,North facing
+682,4500,Semi-Furnished,75000,5,Villa, Hyderabad,Narsingi,4,West facing
+683,720,Furnished,17000,1,Apartment, Hyderabad,Kondapur,1,NorthEast facing
+684,1000,Unfurnished,8350,1,Studio Apartment, Hyderabad,Bolarum,1,
+685,700,Semi-Furnished,14000,1,Apartment, Hyderabad,Malkajgiri,1,NorthEast facing
+686,2000,Semi-Furnished,44000,3,Apartment, Hyderabad,Tellapur,3,East facing
+687,1900,Semi-Furnished,44000,3,Apartment, Hyderabad,Tellapur,3,East facing
+688,4000,Semi-Furnished,89000,3,Independent House, Hyderabad,Kukatpally,3,East facing
+689,1530,Semi-Furnished,35000,3,Apartment, Hyderabad,Bachupally,3,East facing
+690,3600,Semi-Furnished,80000,4,Apartment, Hyderabad,Narsingi,4,West facing
+691,2600,Semi-Furnished,60000,3,Apartment, Hyderabad,Kokapet,3,East facing
+692,2600,Semi-Furnished,55000,4,Apartment, Hyderabad,Tellapur,4,West facing
+693,2600,Semi-Furnished,30000,4,Apartment, Hyderabad,Tellapur,4,East facing
+694,700,Semi-Furnished,11500,1,Apartment, Hyderabad,Kondapur,1,NorthEast facing
+695,710,Semi-Furnished,12000,1,Apartment, Hyderabad,Abids,1,NorthEast facing
+696,1150,Semi-Furnished,18000,2,Apartment, Hyderabad,Malkajgiri,2,NorthEast facing
+697,1800,Semi-Furnished,26000,3,Apartment, Hyderabad,Kondapur,3,NorthEast facing
+698,1250,Semi-Furnished,18000,2,Apartment, Hyderabad,Kondapur,2,NorthEast facing
+699,1650,Semi-Furnished,55000,3,Apartment, Hyderabad,Manikonda,3,NorthEast facing
+700,1700,Semi-Furnished,44000,3,Independent Floor, Hyderabad,Kukatpally,3,East facing
+701,2200,Semi-Furnished,60000,3,Apartment, Hyderabad,Gachibowli,3,NorthEast facing
+702,2200,Semi-Furnished,50000,3,Apartment, Hyderabad,Kokapet,3,NorthEast facing
+703,2650,Semi-Furnished,45000,3,Apartment, Hyderabad,Shaikpet,3,NorthEast facing
+704,2650,Furnished,55000,4,Apartment, Hyderabad,Tellapur,4,NorthEast facing
+705,1250,Semi-Furnished,30000,4,Apartment, Hyderabad,Tellapur,4,NorthEast facing
+706,2100,Semi-Furnished,60000,3,Apartment, Hyderabad,Kokapet,3,NorthEast facing
+707,1750,Semi-Furnished,50000,3,Apartment, Hyderabad,Hitech City,3,NorthEast facing
+708,3550,Semi-Furnished,85000,4,Apartment, Hyderabad,Kollur,4,NorthEast facing
+709,3500,Furnished,90000,3,Apartment, Hyderabad,Tellapur,3,NorthEast facing
+710,1850,Semi-Furnished,55000,3,Apartment, Hyderabad,Manikonda,3,NorthEast facing
+711,600,Unfurnished,9000,1,Apartment, Hyderabad,Puppalaguda,1,
+712,5000,Semi-Furnished,160000,4,Villa, Hyderabad,Gachibowli,4,
+713,1200,Unfurnished,12500,2,Apartment, Hyderabad,Meerpet,2,
+714,2200,Semi-Furnished,45000,3,Apartment, Hyderabad,Shaikpet,3,
+715,2400,Semi-Furnished,60000,3,Apartment, Hyderabad,Narsingi,3,East facing
+716,3800,Semi-Furnished,80000,4,Apartment, Hyderabad,Narsingi,4,West facing
+717,2800,Semi-Furnished,60000,3,Apartment, Hyderabad,Kokapet,3,East facing
+718,2600,Semi-Furnished,55000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+719,2600,Semi-Furnished,55000,4,Apartment, Hyderabad,Tellapur,4,West facing
+720,2600,Semi-Furnished,30000,4,Apartment, Hyderabad,Tellapur,4,East facing
+721,1350,Semi-Furnished,18000,2,Apartment, Hyderabad,Kondapur,2,NorthEast facing
+722,800,Semi-Furnished,16000,1,Apartment, Hyderabad,Kondapur,1,NorthEast facing
+723,700,Unfurnished,9000,1,Apartment, Hyderabad,Kondapur,1,NorthEast facing
+724,780,Semi-Furnished,14000,1,Apartment, Hyderabad,Kondapur,1,NorthEast facing
+725,750,Unfurnished,8000,1,Apartment, Hyderabad,Meerpet,1,
+726,150,Semi-Furnished,13000,1,Studio Apartment, Hyderabad,Alwal,1,
+727,150,Furnished,14000,1,Studio Apartment, Hyderabad,Alwal,1,
+728,1980,Semi-Furnished,40000,3,Villa, Hyderabad,Gopanpally,3,East facing
+729,720,Semi-Furnished,13000,1,Apartment, Hyderabad,Kondapur,1,NorthEast facing
+730,2500,Semi-Furnished,27000,3,Independent House, Hyderabad,LB Nagar,3,
+731,3600,Unfurnished,90000,4,Villa, Hyderabad,Tellapur,6,
+732,1993,Furnished,60000,3,Apartment, Hyderabad,Gachibowli,3,NorthEast facing
+733,4800,Furnished,150000,4,Villa, Hyderabad,Kokapet,4,NorthEast facing
+734,4600,Furnished,150000,3,Villa, Hyderabad,Kismatpur,4,East facing
+735,4300,Furnished,275000,4,Apartment, Hyderabad,Banjara Hills,4,NorthEast facing
+736,1400,Semi-Furnished,23000,2,Apartment, Hyderabad,Kondapur,2,NorthEast facing
+737,6000,Semi-Furnished,300000,4,Villa, Hyderabad,Nanakramguda,5,East facing
+738,4000,Semi-Furnished,130000,4,Villa, Hyderabad,Gopanpally,4,West facing
+739,1350,Semi-Furnished,24500,2,Apartment, Hyderabad,Bandlaguda Jagir,3,
+740,5000,Semi-Furnished,300000,4,Villa, Hyderabad,Nanakramguda,6,
+741,1492,Unfurnished,50000,3,Apartment, Hyderabad,Gachibowli,2,West facing
+742,1492,Unfurnished,50000,3,Apartment, Hyderabad,Gachibowli,2,West facing
+743,1800,Semi-Furnished,38000,3,Apartment, Hyderabad,Gachibowli,3,
+744,7000,Semi-Furnished,300000,4,Villa, Hyderabad,Gachibowli,5,
+745,5200,Semi-Furnished,325000,4,Villa, Hyderabad,Nanakramguda,5,East facing
+746,900,Semi-Furnished,9000,1,Apartment, Hyderabad,Aminpur,1,North facing
+747,4500,Semi-Furnished,85000,4,Villa, Hyderabad,Kokapet,4,East facing
+748,3500,Semi-Furnished,119000,4,Villa, Hyderabad,Hitech City,5,
+749,1560,Semi-Furnished,35000,3,Apartment, Hyderabad,Nallagandla Gachibowli,3,East facing
+750,2540,Unfurnished,50000,4,Apartment, Hyderabad,Narsingi,4,West facing
+751,1200,Unfurnished,15000,1,Apartment, Hyderabad,Rambagh Colony,2,
+752,800,Semi-Furnished,8800,1,Studio Apartment, Hyderabad,Bolarum,1,
+753,1150,Semi-Furnished,11000,1,Independent House, Hyderabad,Bolarum,2,
+754,1150,Semi-Furnished,15400,1,Independent House, Hyderabad,Bolarum,2,
+755,1000,Semi-Furnished,10000,1,Apartment, Hyderabad,Bolarum,2,
+756,900,Unfurnished,12000,2,Apartment, Hyderabad,Borabanda,2,
+757,1050,Semi-Furnished,16500,2,Apartment, Hyderabad,Rani Gunj,2,
+758,1100,Semi-Furnished,22000,2,Apartment, Hyderabad,West Marredpally,2,North facing
+759,3500,Semi-Furnished,60000,5,Independent House, Hyderabad,Mahendra Hills,4,East facing
+760,1200,Semi-Furnished,20000,2,Apartment, Hyderabad,Sainikpuri,2,East facing
+761,3500,Furnished,95000,4,Villa, Hyderabad,Gopanpally,5,West facing
+762,1500,Semi-Furnished,28000,3,Apartment, Hyderabad,Nallagandla Gachibowli,3,East facing
+763,1800,Semi-Furnished,38000,3,Apartment, Hyderabad,Gachibowli,3,West facing
+764,5000,Semi-Furnished,150000,5,Villa, Hyderabad,Gachibowli,6,
+765,650,Semi-Furnished,13000,1,Apartment, Hyderabad,Kondapur,1,NorthEast facing
+766,680,Furnished,18000,1,Apartment, Hyderabad,Abids,1,NorthEast facing
+767,680,Semi-Furnished,14000,1,Apartment, Hyderabad,Kondapur,1,NorthEast facing
+768,700,Semi-Furnished,14000,1,Apartment, Hyderabad,Kondapur,1,NorthEast facing
+769,5500,Semi-Furnished,400000,4,Villa, Hyderabad,Gandipet,5,
+770,200,Unfurnished,8000,1,Independent House, Hyderabad,Kachiguda,1,
+771,600,Unfurnished,7800,1,Apartment, Hyderabad,Kachiguda,1,East facing
+772,300,Unfurnished,3500,1,Studio Apartment, Hyderabad,Nallakunta,1,North facing
+773,900,Unfurnished,15000,2,Apartment, Hyderabad,Kachiguda,2,East facing
+774,1900,Furnished,55000,3,Apartment, Hyderabad,Kokapet,3,East facing
+775,3000,Semi-Furnished,100000,3,Independent Floor, Hyderabad,Jubilee Hills,3,North facing
+776,4000,Furnished,170000,4,Villa, Hyderabad,Jubilee Hills,4,
+777,5500,Semi-Furnished,300000,4,Villa, Hyderabad,Gandipet,5,
+778,6500,Semi-Furnished,275000,4,Villa, Hyderabad,Nanakramguda,5,East facing
+779,6000,Semi-Furnished,249000,4,Villa, Hyderabad,Gandipet,5,
+780,600,Unfurnished,12100,1,Studio Apartment, Hyderabad,Hafeezpet,1,
+781,250,Semi-Furnished,9500,1,Independent House, Hyderabad,LB Nagar,1,
+782,2626,Semi-Furnished,28000,3,Villa, Hyderabad,Miyapur,3,East facing
+783,3500,Unfurnished,55000,3,Villa, Hyderabad,Manikonda,1,NorthEast facing
+784,1200,Unfurnished,10700,1,Independent House, Hyderabad,Gurram Guda,2,
+785,1100,Semi-Furnished,18000,1,Independent House, Hyderabad,Begumpet,2,
+786,500,Unfurnished,6100,1,Independent House, Hyderabad,Madhura Nagar,1,
+787,1200,Semi-Furnished,12000,1,Studio Apartment, Hyderabad,Hastinapuram,2,
+788,900,Semi-Furnished,12250,1,Independent House, Hyderabad,West Marredpally,2,
+789,500,Unfurnished,5600,1,Independent House, Hyderabad,Balanagar,1,
+790,850,Furnished,8800,1,Studio Apartment, Hyderabad,Miyapur,1,
+791,1100,Semi-Furnished,33500,1,Independent House, Hyderabad,Banjara Hills,1,
+792,1470,Semi-Furnished,40000,2,Independent House, Hyderabad,Gachibowli,3,
+793,1400,Semi-Furnished,22500,1,Independent House, Hyderabad,Puppalaguda,2,
+794,1000,Unfurnished,13200,1,Independent House, Hyderabad,Bolarum,2,
+795,800,Unfurnished,10000,1,Independent House, Hyderabad,Bolarum,2,
+796,1000,Unfurnished,6500,1,Studio Apartment, Hyderabad,Bolarum,1,
+797,1100,Unfurnished,13500,1,Independent House, Hyderabad,Bolarum,2,
+798,1150,Unfurnished,14500,1,Independent House, Hyderabad,Old Bowenpally,2,
+799,1100,Unfurnished,15000,1,Independent House, Hyderabad,Khairatabad Road,2,
+800,1000,Furnished,40000,1,Independent House, Hyderabad,Gachibowli,2,
+801,700,Unfurnished,10000,1,Independent House, Hyderabad,Malkajgiri,2,
+802,1050,Semi-Furnished,16500,1,Independent House, Hyderabad,Bolarum,2,
+803,1500,Semi-Furnished,22000,1,Independent House, Hyderabad,Rasoolpura,2,
+804,1200,Semi-Furnished,30000,1,Independent House, Hyderabad,Begumpet,2,
+805,7500,Unfurnished,260000,5,Independent House, Hyderabad,Banjara Hills,5,
+806,6000,Unfurnished,250000,5,Independent House, Hyderabad,Banjara Hills,5,
+807,250,Semi-Furnished,8500,1,Independent House, Hyderabad,LB Nagar,1,
+808,8000,Semi-Furnished,300000,5,Independent House, Hyderabad,Madhapur,5,
+809,6500,Furnished,199000,6,Villa, Hyderabad,Manikonda,8,
+810,9000,Unfurnished,280000,7,Independent House, Hyderabad,Jubilee Hills,7,
+811,4800,Semi-Furnished,140000,4,Villa, Hyderabad,Hitech City,5,
+812,6000,Semi-Furnished,200000,5,Independent House, Hyderabad,Banjara Hills,5,SouthWest facing
+813,1800,Semi-Furnished,35500,2,Independent House, Hyderabad,Karkhana,3,
+814,1500,Unfurnished,16500,2,Independent House, Hyderabad,Moula Ali,2,
+815,6000,Semi-Furnished,300000,6,Independent House, Hyderabad,Banjara Hills,6,
+816,400,Semi-Furnished,8000,1,Independent House, Hyderabad,Meerpet,2,
+817,500,Unfurnished,9350,1,Studio Apartment, Hyderabad,Kompally,1,
+818,2000,Unfurnished,25000,2,Independent House, Hyderabad,Bapu Nagar,3,
+819,1000,Semi-Furnished,25000,2,Apartment, Hyderabad,Jubilee Hills,2,
+820,500,Unfurnished,7700,1,Independent House, Hyderabad,Hafeezpet,1,
+821,1000,Unfurnished,12000,1,Independent House, Hyderabad,Bolarum,2,
+822,1100,Semi-Furnished,13300,1,Independent House, Hyderabad,Trimalgherry,2,
+823,1100,Unfurnished,11000,1,Independent House, Hyderabad,Kundanpally,2,
+824,500,Unfurnished,6600,1,Studio Apartment, Hyderabad,Jeedimetla,1,
+825,2200,Semi-Furnished,35000,3,Apartment, Hyderabad,Jubilee Hills,3,East facing
+826,1800,Semi-Furnished,22500,2,Independent House, Hyderabad,Manikonda,2,
+827,1300,Furnished,60000,2,Independent House, Hyderabad,Gachibowli,3,
+828,1150,Semi-Furnished,11000,2,Apartment, Hyderabad,Bolarum,2,
+829,1070,Furnished,28000,2,Apartment, Hyderabad,Bandlaguda Jagir,2,
+830,1100,Semi-Furnished,18000,2,Apartment, Hyderabad,Begumpet,2,
+831,1200,Unfurnished,10700,2,Apartment, Hyderabad,Neeladri Nagar,2,
+832,450,Semi-Furnished,7700,1,Studio Apartment, Hyderabad,Hakimpet Hyderabad Karimnagar Highway,1,
+833,1000,Semi-Furnished,11000,1,Independent House, Hyderabad,Bolarum,2,
+834,1210,Semi-Furnished,17000,2,Apartment, Hyderabad,Sanath Nagar,2,
+835,800,Unfurnished,11300,1,Studio Apartment, Hyderabad,Hafeezpet,1,
+836,1000,Unfurnished,11000,1,Independent House, Hyderabad,Bolarum,2,
+837,2500,Semi-Furnished,33400,2,Independent House, Hyderabad,Hafeezpet,3,
+838,600,Unfurnished,8000,1,Apartment, Hyderabad,Yousufguda,1,East facing
+839,1250,Semi-Furnished,25000,2,Apartment, Hyderabad,Jubilee Hills,2,West facing
+840,1150,Unfurnished,12000,2,Independent Floor, Hyderabad,Nacharam,2,East facing
+841,670,Unfurnished,6500,1,Independent Floor, Hyderabad,Uppal,1,
+842,1000,Semi-Furnished,10000,2,Apartment, Hyderabad,Bolarum,2,
+843,1350,Semi-Furnished,22000,2,Apartment, Hyderabad,Kondapur,2,NorthEast facing
+844,800,Semi-Furnished,14000,1,Apartment, Hyderabad,Kondapur,1,NorthEast facing
+845,1300,Unfurnished,19000,1,Independent House, Hyderabad,Qutub Shahi Tombs,2,
+846,1250,Semi-Furnished,14000,2,Independent Floor, Hyderabad,Ameerpet,2,
+847,1000,Unfurnished,16500,1,Independent House, Hyderabad,Bolarum,2,
+848,1100,Semi-Furnished,16500,2,Apartment, Hyderabad,Kondapur,2,
+849,3000,Furnished,60000,3,Independent Floor, Hyderabad,Jubilee Hills,3,East facing
+850,2750,Semi-Furnished,75000,3,Apartment, Hyderabad,Jubilee Hills,3,NorthEast facing
+851,1000,Furnished,10000,1,Apartment, Hyderabad,Ayyappa Society,1,
+852,5000,Semi-Furnished,199000,4,Villa, Hyderabad,Gandipet,5,West facing
+853,4800,Semi-Furnished,160000,4,Villa, Hyderabad,Gachibowli,4,
+854,4800,Semi-Furnished,150000,5,Villa, Hyderabad,Gachibowli,6,West facing
+855,4600,Semi-Furnished,150000,4,Villa, Hyderabad,Kokapet,4,
+856,5000,Semi-Furnished,300000,3,Independent House, Hyderabad,Banjara Hills,3,
+857,3000,Semi-Furnished,85000,4,Apartment, Hyderabad,Mehdipatnam,4,
+858,2600,Furnished,100000,3,Apartment, Hyderabad,Madhapur,3,
+859,1800,Semi-Furnished,60000,3,Apartment, Hyderabad,Kukatpally,3,
+860,3150,Semi-Furnished,110000,3,Apartment, Hyderabad,Madhapur,3,
+861,5000,Semi-Furnished,250000,4,Villa, Hyderabad,Nanakramguda,6,
+862,4070,Semi-Furnished,160000,4,Apartment, Hyderabad,Madhapur,4,
+863,2215,Furnished,85000,3,Apartment, Hyderabad,Banjara Hills,3,
+864,2600,Semi-Furnished,80000,3,Apartment, Hyderabad,Nanakramguda,3,
+865,3000,Semi-Furnished,80000,3,Apartment, Hyderabad,Jubilee Hills,4,
+866,3160,Semi-Furnished,75000,3,Apartment, Hyderabad,Madhapur,3,West facing
+867,4000,Semi-Furnished,85000,3,Villa, Hyderabad,Kismatpur,5,
+868,5000,Semi-Furnished,110000,4,Apartment, Hyderabad,Gachibowli,4,East facing
+869,5000,Semi-Furnished,175000,4,Independent House, Hyderabad,Banjara Hills,4,
+870,6000,Semi-Furnished,300000,4,Villa, Hyderabad,Gandipet,5,
+871,5000,Furnished,250000,4,Villa, Hyderabad,Gachibowli,4,
+872,5200,Semi-Furnished,190000,5,Villa, Hyderabad,Narsingi,6,
+873,3300,Furnished,100000,3,Apartment, Hyderabad,Nanakramguda,5,East facing
+874,3300,Semi-Furnished,55000,3,Villa, Hyderabad,Miyapur,3,West facing
+875,7500,Semi-Furnished,290000,4,Villa, Hyderabad,Kokapet,5,
+876,3500,Semi-Furnished,125000,3,Independent Floor, Hyderabad,Banjara Hills,3,East facing
+877,4000,Semi-Furnished,140000,4,Apartment, Hyderabad,Gachibowli,5,East facing
+878,5800,Semi-Furnished,225000,4,Villa, Hyderabad,Gandipet,5,North facing
+879,4408,Furnished,130000,4,Apartment, Hyderabad,Gachibowli,6,
+880,6000,Semi-Furnished,300000,4,Independent House, Hyderabad,Jubilee Hills,4,South facing
+881,3125,Semi-Furnished,90000,3,Apartment, Hyderabad,Jubilee Hills,3,East facing
+882,1152,Semi-Furnished,22000,2,Apartment, Hyderabad,Kondapur,2,East facing
+883,752,Unfurnished,9500,1,Apartment, Hyderabad,Kondapur,1,North facing
+884,752,Unfurnished,8000,1,Apartment, Hyderabad,Kondapur,1,North facing
+885,1252,Semi-Furnished,20000,2,Apartment, Hyderabad,Kondapur,2,North facing
+886,652,Unfurnished,9000,1,Apartment, Hyderabad,Kondapur,1,East facing
+887,1352,Semi-Furnished,25000,2,Apartment, Hyderabad,Kondapur,2,East facing
+888,1252,Semi-Furnished,23000,2,Apartment, Hyderabad,Kondapur,2,East facing
+889,1880,Semi-Furnished,35000,3,Independent Floor, Hyderabad,West Marredpally,3,East facing
+890,1450,Semi-Furnished,25000,2,Apartment, Hyderabad,Mahendra Hills,2,North facing
+891,1600,Semi-Furnished,30000,3,Apartment, Hyderabad,East Marredpally,3,East facing
+892,1650,Semi-Furnished,35000,3,Apartment, Hyderabad,West Marredpally,3,West facing
+893,1150,Semi-Furnished,20000,2,Apartment, Hyderabad,East Marredpally,4,NorthEast facing
+894,1150,Semi-Furnished,16000,2,Apartment, Hyderabad,East Marredpally,2,
+895,1150,Furnished,25000,2,Apartment, Hyderabad,East Marredpally,2,
+896,1950,Semi-Furnished,35000,3,Independent Floor, Hyderabad,Mahendra Hills,3,North facing
+897,1650,Semi-Furnished,25000,3,Apartment, Hyderabad,East Marredpally,3,North facing
+898,1100,Semi-Furnished,20000,2,Independent House, Hyderabad,Mahendra Hills,2,East facing
+899,1350,Semi-Furnished,25000,2,Independent Floor, Hyderabad,East Marredpally,2,East facing
+900,3500,Semi-Furnished,85000,3,Independent Floor, Hyderabad,Jubilee Hills,3,
+901,5000,Furnished,200000,5,Villa, Hyderabad,Nanakramguda,5,
+902,5800,Furnished,350000,4,Independent House, Hyderabad,Jubilee Hills,4,West facing
+903,4395,Semi-Furnished,159000,4,Apartment, Hyderabad,Nanakramguda,6,West facing
+904,1717,Furnished,9700,3,Apartment, Hyderabad,Gachibowli,1,
+905,1200,Furnished,5900,3,Apartment, Hyderabad,Erragadda,1,
+906,1000,Furnished,4600,2,Apartment, Hyderabad,Begumpet,1,
+907,1200,Furnished,5000,3,Apartment, Hyderabad,Uppal,1,
+908,1400,Furnished,6000,3,Apartment, Hyderabad,Kukatpally,1,
+909,1600,Furnished,9050,2,Apartment, Hyderabad,Gopanapalli,1,
+910,850,Semi-Furnished,5150,2,Apartment, Hyderabad,Banjara Hills,1,
+911,2000,Furnished,8000,3,Independent House, Hyderabad,Jubilee Hills,1,
+912,1500,Furnished,6000,3,Apartment, Hyderabad,Kukatpally,1,
+913,1100,Furnished,4400,2,Apartment, Hyderabad,Bapu Nagar,1,
+914,1150,Furnished,7000,2,Apartment, Hyderabad,Begumpet,1,
+915,900,Furnished,5000,2,Apartment, Hyderabad,Kukatpally,1,
+916,1600,Furnished,12350,3,Apartment, Hyderabad,Mehdipatnam,,
+917,1300,Furnished,5500,3,Apartment, Hyderabad,Yousufguda,,
+918,1300,Furnished,7000,3,Apartment, Hyderabad,Khairatabad Road,,
+919,1200,Furnished,5000,2,Apartment, Hyderabad,Begumpet,,
+920,1100,Furnished,4400,2,Apartment, Hyderabad,Bapu Nagar,1,
+921,4070,Semi-Furnished,240000,4,Apartment, Hyderabad,Madhapur,4,
+922,1400,Furnished,6200,3,Independent House, Hyderabad,Gachibowli,3,
+923,3800,Semi-Furnished,80000,3,Apartment, Hyderabad,Kismatpur,3,
+924,1000,Furnished,4800,2,Apartment, Hyderabad,Begumpet,1,
+925,1000,Furnished,5850,1,Independent House, Hyderabad,Uppal,1,
+926,1400,Furnished,5750,3,Apartment, Hyderabad,Kukatpally,1,
+927,1320,Furnished,6300,2,Apartment, Hyderabad,Bairagiguda,,
+928,1000,Furnished,5500,3,Apartment, Hyderabad,Madhapur,1,
+929,1000,Furnished,5000,3,Independent House, Hyderabad,Begumpet,1,
+930,1200,Furnished,6250,3,Independent House, Hyderabad,Punjagutta,2,
+931,1200,Furnished,6000,3,Apartment, Hyderabad,Nanakramguda,1,
+932,1652,Semi-Furnished,25000,3,Apartment, Hyderabad,Kondapur,3,NorthEast facing
+933,752,Semi-Furnished,12000,1,Apartment, Hyderabad,Kondapur,1,
+934,1152,Unfurnished,17000,2,Apartment, Hyderabad,Kondapur,2,East facing
+935,5000,Furnished,300000,5,Villa, Hyderabad,Shaikpet,6,East facing
+936,2500,Semi-Furnished,65000,4,Apartment, Hyderabad,Madhapur,4,West facing
+937,2000,Semi-Furnished,30000,2,Independent House, Hyderabad,Madhapur,2,NorthEast facing
+938,700,Semi-Furnished,11000,1,Studio Apartment, Hyderabad,Attapur,1,
+939,650,Semi-Furnished,10000,1,Studio Apartment, Hyderabad,Attapur,1,
+940,1243,Semi-Furnished,15500,2,Apartment, Hyderabad,Nagole,2,
+941,1820,Unfurnished,20000,3,Apartment, Hyderabad,Manikonda,3,
+942,2600,Furnished,56000,2,Apartment, Hyderabad,Gachibowli,2,
+943,1500,Semi-Furnished,12000,3,Apartment, Hyderabad,Pocharam,3,
+944,1100,Semi-Furnished,12000,2,Apartment, Hyderabad,Mallampet,2,East facing
+945,1757,Furnished,25000,3,Apartment, Hyderabad,Uppal,3,
+946,1410,Semi-Furnished,39000,2,Apartment, Hyderabad,Kondapur,2,
+947,1410,Semi-Furnished,49000,3,Apartment, Hyderabad,Puppalaguda,2,East facing
+948,700,Semi-Furnished,14000,2,Apartment, Hyderabad,Suraram,2,
+949,1450,Semi-Furnished,28000,3,Apartment, Hyderabad,Kondapur,2,
+950,1700,Unfurnished,16000,3,Independent Floor, Hyderabad,Bowenpally,2,
+951,2800,Semi-Furnished,60000,3,Apartment, Hyderabad,Nanakramguda,3,East facing
+952,1275,Semi-Furnished,34000,2,Apartment, Hyderabad,Nallagandla Gachibowli,2,
+953,1200,Semi-Furnished,8500,2,Independent House, Hyderabad,Bandlaguda Jagir,2,SouthEast facing
+954,800,Semi-Furnished,8000,2,Independent Floor, Hyderabad,Boduppal,,
+955,1350,Unfurnished,16200,2,Apartment, Hyderabad,Toli Chowki,2,North facing
+956,2000,Unfurnished,28000,1,Independent House, Hyderabad,Aminpur,2,
+957,1150,Unfurnished,20000,1,Independent House, Hyderabad,Aminpur,2,
+958,700,Unfurnished,16700,1,Studio Apartment, Hyderabad,Aminpur,1,
+959,700,Unfurnished,16700,1,Studio Apartment, Hyderabad,Aminpur,1,
+960,700,Unfurnished,16700,1,Studio Apartment, Hyderabad,Aminpur,1,
+961,320,Semi-Furnished,5500,1,Studio Apartment, Hyderabad,Uppal,1,
+962,1850,Furnished,30000,3,Apartment, Hyderabad,Gaddi Annaram,3,
+963,1700,Semi-Furnished,35000,3,Villa, Hyderabad,Nallagandla Gachibowli,4,East facing
+964,460,Unfurnished,5000,1,Studio Apartment, Hyderabad,Nacharam,1,East facing
+965,450,Unfurnished,4000,1,Studio Apartment, Hyderabad,Amberpet,1,North facing
+966,200,Unfurnished,3500,1,Studio Apartment, Hyderabad,Nacharam,1,West facing
+967,250,Unfurnished,3500,1,Studio Apartment, Hyderabad,Amberpet,1,
+968,1280,Semi-Furnished,15000,2,Independent Floor, Hyderabad,Habsiguda,2,
+969,750,Unfurnished,5500,1,Independent Floor, Hyderabad,Amberpet,1,
+970,900,Unfurnished,6500,1,Apartment, Hyderabad,Nacharam,1,East facing
+971,550,Unfurnished,7000,1,Independent Floor, Hyderabad,Moosarambagh Road,1,North facing
+972,700,Semi-Furnished,7000,1,Independent Floor, Hyderabad,Moosarambagh Road,1,East facing
+973,1800,Semi-Furnished,35000,3,Apartment, Hyderabad,West Marredpally,3,East facing
+974,1900,Semi-Furnished,33000,3,Apartment, Hyderabad,Madhapur,3,
+975,2238,Semi-Furnished,55000,3,Apartment, Hyderabad,Manikonda,3,
+976,3500,Semi-Furnished,100000,4,Independent Floor, Hyderabad,Madhapur,3,East facing
+977,4000,Semi-Furnished,135000,4,Independent Floor, Hyderabad,Jubilee Hills,5,East facing
+978,3430,Furnished,185000,3,Apartment, Hyderabad,Madhapur,4,East facing
+979,4500,Furnished,249000,4,Villa, Hyderabad,Kokapet,4,
+980,671,Semi-Furnished,12000,1,Apartment, Hyderabad,Ameerpet,1,East facing
+981,3200,Semi-Furnished,50000,3,Apartment, Hyderabad,Banjara Hills,3,NorthEast facing
+982,641,Semi-Furnished,12000,1,Apartment, Hyderabad,Balakampet,1,
+983,690,Unfurnished,7500,1,Independent Floor, Hyderabad,Ramanthapur,1,
+984,720,Unfurnished,8000,1,Apartment, Hyderabad,Tarnaka,1,
+985,290,Semi-Furnished,5000,1,Studio Apartment, Hyderabad,Nagole,1,
+986,2900,Semi-Furnished,30000,3,Villa, Hyderabad,Mokila,3,
+987,1800,Semi-Furnished,26000,3,Independent Floor, Hyderabad,Uppal,3,
+988,1700,Furnished,28000,3,Apartment, Hyderabad,Dilsukh Nagar,3,East facing
+989,1610,Furnished,33000,3,Apartment, Hyderabad,Chandanagar,3,East facing
+990,3000,Semi-Furnished,81000,3,Villa, Hyderabad,Banjara Hills,3,NorthEast facing
+991,2500,Semi-Furnished,60000,4,Apartment, Hyderabad,Madhapur,3,North facing
+992,3500,Furnished,150000,4,Apartment, Hyderabad,Banjara Hills,4,East facing
+993,5990,Semi-Furnished,160000,4,Villa, Hyderabad,Kokapet,5,East facing
+994,7000,Furnished,200000,6,Independent House, Hyderabad,Begumpet,7,North facing
+995,4070,Semi-Furnished,200000,4,Apartment, Hyderabad,Madhapur,4,East facing
+996,672,Semi-Furnished,8500,1,Apartment, Hyderabad,Sanjeeva Reddy Nagar,1,East facing
+997,592,Semi-Furnished,8300,1,Apartment, Hyderabad,Ameerpet,1,East facing
+998,650,Unfurnished,8500,1,Apartment, Hyderabad,Ameerpet,1,West facing
+999,589,Semi-Furnished,8018,1,Apartment, Hyderabad,Yousufguda,1,NorthEast facing

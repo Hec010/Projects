@@ -1,0 +1,512 @@
+,Locality,House_Type,Facing,sq_area,furinture,BHK_,No_of_Bathrooms,Price_in_rupees
+0,Medchal,Apartment,NorthEast facing,800,Unfurnished,1,1,5000
+1,Vanasthalipuram,Independent House,North facing,850,Semi-Furnished,1,1,8500
+2,Mehdipatnam,Independent Floor,South facing,830,Unfurnished,2,2,9960
+3,Madhapur,Independent House,NorthEast facing,800,Semi-Furnished,2,2,25000
+4,Maheshwaram,Apartment,East facing,2060,Semi-Furnished,6,3,30000
+5,Malkajgiri,Apartment,East facing,850,Furnished,2,2,20000
+6,Bandlaguda Jagir,Independent House,West facing,1440,Unfurnished,1,1,7100
+7,Kondapur,Apartment,East facing,1500,Semi-Furnished,3,3,40000
+8,Chintalmet,Apartment,East facing,1130,Semi-Furnished,2,2,20000
+9,Nagole,Villa,West facing,2509,Unfurnished,3,3,37635
+10,Krishna Reddy Pet,Apartment,East facing,1360,Semi-Furnished,3,2,18000
+11,Shamshabad,Villa,West facing,3200,Furnished,4,2,40000
+12,Banjara Hills,Apartment,East facing,450,Unfurnished,1,1,8000
+13,Serilingampally,Apartment,East facing,400,Semi-Furnished,1,1,5000
+14,Madhapur,Independent Floor,East facing,2200,Semi-Furnished,3,2,30000
+15,Shaikpet,Independent House,NorthEast facing,1200,Unfurnished,2,1,12000
+16,Boduppal,Independent Floor,East facing,1100,Unfurnished,2,2,10000
+17,Nallagandla Gachibowli,Villa,West facing,4000,Semi-Furnished,5,5,80000
+18,Manikonda,Apartment,NorthEast facing,1250,Semi-Furnished,2,2,16000
+19,Boduppal,Independent House,NorthEast facing,1300,Semi-Furnished,2,2,12000
+20,Upparpally,Independent Floor,West facing,1700,Furnished,2,2,18000
+21,Ramachandra Puram,Independent House,NorthEast facing,950,Unfurnished,2,2,8500
+22,Kokapet,Apartment,NorthEast facing,1870,Semi-Furnished,3,3,35000
+23,Bolarum,Independent House,SouthEast facing,2000,Semi-Furnished,3,2,18000
+24,Moinabad,Villa,East facing,7000,Furnished,5,5,200000
+25,Miyapur,Independent Floor,South facing,9900,Semi-Furnished,7,2,150000
+26,Trimalgherry,Independent Floor,NorthWest facing,1550,Semi-Furnished,2,2,16000
+27,Kokapet,Villa,East facing,4500,Semi-Furnished,4,4,85000
+28,Gandipet,Apartment,West facing,2400,Unfurnished,3,3,52500
+29,East Marredpally,Independent House,SouthEast facing,6000,Semi-Furnished,1,9,80000
+30,Mehdipatnam,Independent Floor,West facing,950,Unfurnished,2,2,11000
+31,Habsiguda,Apartment,East facing,2700,Semi-Furnished,4,4,45000
+32,Banjara Hills,Independent Floor,East facing,1100,Unfurnished,2,1,11000
+33,Banjara Hills,Independent House,East facing,1500,Furnished,5,4,60000
+34,Shamshabad,Independent House,West facing,3000,Furnished,4,4,45000
+35,Nizampet,Villa,East facing,2400,Unfurnished,4,3,30000
+36,Nizampet,Villa,East facing,2400,Unfurnished,4,2,30000
+37,Shaikpet,Apartment,West facing,1200,Semi-Furnished,3,3,18000
+38,LB Nagar,Independent House,NorthEast facing,2000,Semi-Furnished,3,4,25000
+39,Madhapur,Independent House,North facing,1700,Semi-Furnished,3,3,27000
+40,Ameerpet,Apartment,NorthEast facing,1280,Semi-Furnished,2,2,16000
+41,Banjara Hills,Apartment,NorthEast facing,1900,Semi-Furnished,3,3,45000
+42,Banjara Hills,Apartment,NorthEast facing,2800,Semi-Furnished,4,4,80000
+43,Sri Nagar Colony,Apartment,East facing,2500,Semi-Furnished,3,3,45000
+44,Banjara Hills,Apartment,NorthWest facing,3400,Semi-Furnished,3,3,130000
+45,Banjara Hills,Apartment,West facing,2000,Furnished,3,3,45000
+46,Banjara Hills,Apartment,NorthEast facing,1800,Furnished,3,3,65000
+47,Manneguda,Independent House,East facing,1000,Unfurnished,2,2,12000
+48,Nallakunta,Apartment,North facing,1200,Semi-Furnished,2,2,17000
+49,Jubilee Hills,Apartment,East facing,3000,Semi-Furnished,3,3,60000
+50,Banjara Hills,Apartment,NorthWest facing,1800,Semi-Furnished,3,3,42000
+51,Jubilee Hills,Apartment,NorthEast facing,3000,Semi-Furnished,4,4,75000
+52,Banjara Hills,Apartment,NorthEast facing,2500,Furnished,3,3,45000
+53,Jubilee Hills,Apartment,East facing,2000,Semi-Furnished,3,3,40000
+54,Banjara Hills,Apartment,NorthEast facing,2600,Furnished,3,3,75000
+55,Banjara Hills,Apartment,NorthWest facing,1700,Semi-Furnished,3,3,45000
+56,Jubilee Hills,Apartment,NorthEast facing,550,Semi-Furnished,1,1,12000
+57,Banjara Hills,Apartment,NorthEast facing,2000,Furnished,3,2,52000
+58,Banjara Hills,Apartment,NorthEast facing,2500,Semi-Furnished,3,3,50000
+59,Shaikpet,Apartment,East facing,2000,Furnished,3,3,50000
+60,Jubilee Hills,Apartment,North facing,2500,Semi-Furnished,3,3,75000
+61,Jubilee Hills,Apartment,North facing,1070,Semi-Furnished,2,2,21500
+62,Jubilee Hills,Apartment,NorthEast facing,1000,Semi-Furnished,2,2,25000
+63,Banjara Hills,Apartment,NorthEast facing,2500,Semi-Furnished,3,3,65000
+64,Banjara Hills,Apartment,NorthEast facing,2200,Furnished,3,3,40000
+65,LB Nagar,Independent Floor,East facing,1000,Unfurnished,2,2,10000
+66,Banjara Hills,Apartment,East facing,2450,Furnished,3,3,90000
+67,Jubilee Hills,Villa,NorthEast facing,7000,Furnished,5,6,250000
+68,Shaikpet,Apartment,East facing,2000,Semi-Furnished,3,3,45000
+69,Kondapur,Apartment,West facing,2400,Furnished,3,3,75000
+70,Nallakunta,Apartment,East facing,800,Semi-Furnished,1,1,10000
+71,Kukatpally,Apartment,East facing,2200,Semi-Furnished,3,3,47000
+72,Kukatpally,Apartment,East facing,1500,Semi-Furnished,3,3,35000
+73,Tellapur,Apartment,East facing,3000,Semi-Furnished,4,3,30000
+74,Madhapur,Independent Floor,East facing,1250,Semi-Furnished,2,2,34000
+75,Hitech City,Apartment,East facing,878,Semi-Furnished,2,2,34000
+76,Kokapet,Apartment,East facing,2160,Furnished,3,3,64000
+77,Bandlaguda Jagir,Apartment,East facing,1200,Semi-Furnished,3,3,21000
+78,Manikonda,Independent House,West facing,2800,Furnished,4,4,70000
+79,Kokapet,Apartment,West facing,1515,Semi-Furnished,3,3,35000
+80,Kondapur,Apartment,East facing,1900,Semi-Furnished,3,3,30000
+81,Hitech City,Apartment,West facing,1600,Furnished,4,4,61000
+82,Kukatpally,Independent House,North facing,2000,Semi-Furnished,2,2,44000
+83,Vijaya Nagar Colony,Independent Floor,West facing,1800,Semi-Furnished,3,3,35000
+84,Kondapur,Apartment,North facing,4000,Semi-Furnished,4,4,74000
+85,Kukatpally,Apartment,East facing,1400,Semi-Furnished,2,2,44000
+86,Manikonda,Apartment,West facing,2500,Furnished,4,4,69000
+87,Mahendra Hills,Independent Floor,East facing,2000,Semi-Furnished,3,3,35000
+88,West Marredpally,Apartment,North facing,1000,Furnished,3,2,40000
+89,Mahendra Hills,Independent Floor,NorthEast facing,1100,Semi-Furnished,2,2,20000
+90,Nallagandla Gachibowli,Apartment,West facing,1800,Semi-Furnished,3,3,39000
+91,Hitech City,Apartment,East facing,1300,Semi-Furnished,2,2,39000
+92,Hitech City,Apartment,NorthEast facing,1950,Semi-Furnished,3,3,44000
+93,Kokapet,Apartment,West facing,1800,Semi-Furnished,3,3,49000
+94,Madhapur,Apartment,East facing,3500,Semi-Furnished,3,3,44000
+95,Kukatpally,Apartment,West facing,2200,Furnished,3,3,64000
+96,Banjara Hills,Apartment,East facing,2500,Semi-Furnished,3,3,69000
+97,Sanath Nagar,Apartment,East facing,1400,Semi-Furnished,3,3,44000
+98,Kondapur,Apartment,West facing,1798,Furnished,3,3,64000
+99,Kothaguda,Apartment,East facing,1450,Semi-Furnished,3,3,44000
+100,Nallakunta,Apartment,North facing,2600,Semi-Furnished,3,3,41000
+101,Hitech City,Apartment,East facing,1870,Semi-Furnished,3,3,45000
+102,Kukatpally,Apartment,East facing,2100,Semi-Furnished,3,3,35000
+103,Hitech City,Apartment,East facing,1475,Semi-Furnished,3,3,38000
+104,Madhapur,Apartment,NorthEast facing,1800,Semi-Furnished,3,3,38000
+105,Nanakramguda,Apartment,West facing,2300,Semi-Furnished,3,3,48000
+106,Kondapur,Apartment,East facing,1670,Semi-Furnished,3,3,40000
+107,Nanakramguda,Apartment,East facing,2000,Semi-Furnished,3,3,54000
+108,Hitech City,Apartment,East facing,1650,Semi-Furnished,3,3,44000
+109,Narsingi,Apartment,East facing,1336,Semi-Furnished,3,3,54000
+110,Gachibowli,Apartment,East facing,1700,Semi-Furnished,3,3,34000
+111,Kokapet,Apartment,NorthEast facing,2100,Semi-Furnished,3,3,49000
+112,Chandanagar,Apartment,East facing,1400,Semi-Furnished,2,2,34000
+113,Begumpet,Apartment,East facing,1380,Furnished,2,2,31000
+114,Nanakramguda,Apartment,East facing,1500,Furnished,3,3,59000
+115,Tellapur,Apartment,East facing,2100,Semi-Furnished,3,3,44000
+116,Gachibowli,Apartment,East facing,892,Semi-Furnished,2,2,41000
+117,Tellapur,Apartment,East facing,2400,Semi-Furnished,4,3,29000
+118,Kukatpally,Apartment,East facing,1450,Semi-Furnished,3,3,32000
+119,Nanakramguda,Apartment,West facing,2300,Semi-Furnished,3,3,70000
+120,Nanakramguda,Apartment,East facing,2218,Semi-Furnished,3,3,55000
+121,Narsingi,Apartment,East facing,1845,Semi-Furnished,3,3,45000
+122,Gachibowli,Apartment,East facing,2160,Semi-Furnished,3,3,50000
+123,Nanakramguda,Apartment,East facing,1745,Semi-Furnished,3,3,50000
+124,Sanath Nagar,Apartment,East facing,1750,Semi-Furnished,3,3,35000
+125,Kokapet,Apartment,West facing,1670,Semi-Furnished,3,3,40000
+126,Himayat Nagar,Apartment,North facing,1800,Semi-Furnished,3,3,30000
+127,Banjara Hills,Apartment,East facing,1963,Semi-Furnished,3,3,35000
+128,Somajiguda,Apartment,NorthEast facing,1410,Semi-Furnished,3,2,29610
+129,Kukatpally,Apartment,NorthEast facing,1150,Semi-Furnished,2,2,13800
+130,Hitech City,Apartment,NorthEast facing,2045,Semi-Furnished,3,3,40000
+131,Nallagandla Gachibowli,Apartment,East facing,1670,Semi-Furnished,3,3,38000
+132,Serilingampally,Apartment,West facing,1475,Semi-Furnished,3,3,40000
+133,Hitech City,Apartment,East facing,1545,Semi-Furnished,3,3,38000
+134,Kondapur,Independent Floor,West facing,1600,Semi-Furnished,3,3,38000
+135,Banjara Hills,Apartment,East facing,2000,Semi-Furnished,3,3,50000
+136,Nallakunta,Apartment,East facing,1100,Semi-Furnished,2,2,18000
+137,Mahendra Hills,Apartment,NorthEast facing,1650,Semi-Furnished,3,3,25000
+138,Nallakunta,Apartment,East facing,1600,Semi-Furnished,3,3,25000
+139,West Marredpally,Apartment,West facing,1650,Semi-Furnished,3,3,30000
+140,Kondapur,Apartment,East facing,1000,Semi-Furnished,2,2,39000
+141,Nanakramguda,Apartment,West facing,2000,Semi-Furnished,3,3,54000
+142,Narsingi,Apartment,East facing,2000,Semi-Furnished,3,3,54056
+143,Narsingi,Apartment,East facing,1400,Furnished,3,3,44000
+144,Hitech City,Apartment,East facing,2100,Furnished,3,3,69000
+145,Narsingi,Apartment,West facing,1400,Semi-Furnished,3,3,39000
+146,Amberpet,Apartment,East facing,1800,Semi-Furnished,3,3,30000
+147,Masab Tank,Apartment,West facing,1800,Semi-Furnished,3,3,30000
+148,Himayat Nagar,Apartment,East facing,1200,Semi-Furnished,2,2,18000
+149,Himayat Nagar,Apartment,East facing,1700,Semi-Furnished,3,3,27000
+150,Kokapet,Apartment,NorthEast facing,4650,Furnished,5,5,150000
+151,Narsingi,Apartment,NorthEast facing,3750,Semi-Furnished,4,4,80000
+152,Lakdikapul,Apartment,East facing,2700,Semi-Furnished,3,4,30500
+153,Hitech City,Apartment,East facing,1450,Semi-Furnished,3,3,35000
+154,Gachibowli,Apartment,East facing,2800,Semi-Furnished,4,4,80000
+155,Chandanagar,Apartment,West facing,1265,Semi-Furnished,2,2,35000
+156,Whitefield,Apartment,East facing,1800,Semi-Furnished,3,3,38000
+157,Kondapur,Apartment,East facing,1800,Semi-Furnished,3,3,55000
+158,Hitech City,Apartment,West facing,1600,Furnished,4,4,60000
+159,Kondapur,Apartment,East facing,1800,Semi-Furnished,3,3,60000
+160,Nanakramguda,Apartment,East facing,2800,Semi-Furnished,3,3,60000
+161,Kukatpally,Apartment,West facing,2500,Furnished,3,3,65000
+162,West Marredpally,Independent House,East facing,4500,Semi-Furnished,4,4,60000
+163,Kukatpally,Apartment,East facing,1450,Semi-Furnished,3,3,64000
+164,Somajiguda,Apartment,East facing,4500,Semi-Furnished,4,4,79000
+165,Kondapur,Apartment,East facing,1400,Semi-Furnished,3,3,54000
+166,Madhapur,Apartment,East facing,2293,Semi-Furnished,4,4,92000
+167,Kukatpally,Apartment,East facing,1215,Semi-Furnished,3,2,34000
+168,Hitech City,Apartment,East facing,1200,Semi-Furnished,2,2,34000
+169,Gachibowli,Apartment,East facing,1700,Semi-Furnished,3,3,39000
+170,Gachibowli,Apartment,East facing,1200,Semi-Furnished,2,2,25000
+171,Narsingi,Apartment,East facing,1358,Furnished,3,3,54039
+172,Narsingi,Apartment,East facing,1845,Semi-Furnished,3,3,51000
+173,Nallakunta,Apartment,East facing,1100,Semi-Furnished,2,2,15000
+174,Mahendra Hills,Apartment,East facing,1750,Semi-Furnished,3,3,30000
+175,Manikonda,Apartment,NorthEast facing,1850,Semi-Furnished,3,3,55000
+176,Nallakunta,Apartment,North facing,1800,Semi-Furnished,3,3,32000
+177,Old Bowenpally,Independent House,NorthEast facing,8300,Semi-Furnished,1,9,100000
+178,Banjara Hills,Apartment,East facing,2200,Semi-Furnished,3,3,45000
+179,Jubilee Hills,Apartment,NorthEast facing,2300,Semi-Furnished,3,3,45000
+180,Jubilee Hills,Apartment,West facing,2500,Furnished,3,3,60000
+181,Jubilee Hills,Apartment,South facing,800,Semi-Furnished,2,2,16000
+182,Nanakramguda,Apartment,East facing,2000,Semi-Furnished,3,3,57000
+183,Tellapur,Apartment,East facing,2000,Semi-Furnished,3,3,31000
+184,Tellapur,Apartment,East facing,2400,Semi-Furnished,3,3,44000
+185,Nanakramguda,Apartment,East facing,2000,Semi-Furnished,3,3,69000
+186,Gachibowli,Apartment,East facing,1845,Semi-Furnished,3,3,50000
+187,Nanakramguda,Apartment,East facing,2000,Semi-Furnished,3,3,64999
+188,Kokapet,Apartment,East facing,2160,Furnished,3,3,65000
+189,Gachibowli,Apartment,East facing,1270,Semi-Furnished,2,2,43000
+190,Hitech City,Apartment,East facing,1750,Semi-Furnished,3,3,55000
+191,Kondapur,Apartment,East facing,1650,Semi-Furnished,3,3,45000
+192,Kukatpally,Apartment,East facing,1850,Semi-Furnished,3,3,65000
+193,Nanakramguda,Apartment,East facing,2360,Semi-Furnished,3,3,70000
+194,Nallagandla Gachibowli,Apartment,East facing,2050,Semi-Furnished,3,3,35000
+195,Mallampet,Independent House,East facing,3000,Semi-Furnished,4,4,40000
+196,Gachibowli,Apartment,East facing,1500,Semi-Furnished,3,3,63000
+197,Hitech City,Apartment,East facing,1500,Semi-Furnished,3,2,41000
+198,Tellapur,Apartment,East facing,2200,Semi-Furnished,3,3,45000
+199,Kondapur,Apartment,West facing,1798,Furnished,3,3,60000
+200,Manikonda,Apartment,West facing,2140,Furnished,4,4,65000
+201,Kondapur,Apartment,East facing,1600,Semi-Furnished,3,3,49000
+202,Kondapur,Apartment,East facing,1600,Semi-Furnished,3,3,54000
+203,Manikonda,Apartment,East facing,1700,Furnished,4,4,64000
+204,Nanakramguda,Apartment,East facing,1400,Furnished,3,3,57000
+205,Kondapur,Apartment,East facing,1800,Semi-Furnished,3,3,44000
+206,Hitech City,Apartment,East facing,878,Semi-Furnished,2,2,39000
+207,Tellapur,Apartment,East facing,2300,Semi-Furnished,3,3,31000
+208,Tellapur,Apartment,East facing,987,Semi-Furnished,3,3,64000
+209,Masab Tank,Apartment,East facing,1500,Semi-Furnished,3,4,23000
+210,Sri Nagar Colony,Independent House,NorthEast facing,2200,Semi-Furnished,4,4,94000
+211,Nallagandla Gachibowli,Apartment,East facing,1600,Semi-Furnished,2,2,34000
+212,Kukatpally,Apartment,East facing,1300,Semi-Furnished,3,3,37000
+213,Madhapur,Apartment,North facing,1000,Semi-Furnished,2,2,40000
+214,Hitech City,Apartment,East facing,1098,Semi-Furnished,3,3,34000
+215,Kondapur,Apartment,West facing,1496,Furnished,2,2,44000
+216,Nizampet,Apartment,East facing,3500,Furnished,4,4,44000
+217,Nizampet,Apartment,East facing,3500,Semi-Furnished,4,4,48000
+218,Hitech City,Apartment,East facing,1136,Semi-Furnished,3,3,44000
+219,Nanakramguda,Apartment,East facing,3300,Semi-Furnished,4,4,80000
+220,Nanakramguda,Apartment,East facing,2200,Semi-Furnished,3,3,60000
+221,Manikonda,Independent House,East facing,1900,Semi-Furnished,2,2,67000
+222,Nanakramguda,Apartment,East facing,2680,Semi-Furnished,3,3,74000
+223,Manikonda,Independent House,West facing,2140,Furnished,4,4,65001
+224,Serilingampally,Apartment,West facing,1375,Semi-Furnished,2,2,34000
+225,Kukatpally,Apartment,East facing,2100,Semi-Furnished,3,3,45000
+226,Gachibowli,Apartment,NorthEast facing,1470,Semi-Furnished,3,3,45000
+227,Kokapet,Apartment,East facing,2100,Semi-Furnished,3,3,45000
+228,Kukatpally,Apartment,East facing,1000,Furnished,2,2,34000
+229,Madhapur,Apartment,North facing,3000,Semi-Furnished,4,4,79000
+230,Banjara Hills,Apartment,East facing,3500,Semi-Furnished,3,3,59000
+231,Whitefield,Apartment,East facing,1800,Furnished,3,3,37000
+232,Mahendra Hills,Apartment,West facing,1450,Semi-Furnished,2,2,25000
+233,Hitech City,Apartment,NorthEast facing,1650,Semi-Furnished,3,3,45000
+234,Narsingi,Apartment,East facing,3600,Furnished,4,4,70000
+235,Hitech City,Apartment,NorthEast facing,2100,Furnished,3,3,70000
+236,Tellapur,Apartment,East facing,2970,Semi-Furnished,3,3,45000
+237,Tellapur,Apartment,East facing,2400,Semi-Furnished,3,3,32000
+238,Gachibowli,Apartment,North facing,1492,Semi-Furnished,3,2,48889
+239,Vanasthalipuram,Apartment,East facing,900,Semi-Furnished,2,2,14000
+240,Nanakramguda,Apartment,East facing,1450,Semi-Furnished,3,3,44000
+241,Nanakramguda,Apartment,East facing,4000,Semi-Furnished,4,4,79000
+242,Narsingi,Apartment,East facing,3765,Furnished,4,4,79000
+243,Kukatpally,Apartment,East facing,1400,Semi-Furnished,3,3,54000
+244,Hitech City,Apartment,North facing,2350,Furnished,3,3,69000
+245,Hitech City,Apartment,West facing,1136,Semi-Furnished,3,3,46000
+246,Kondapur,Apartment,East facing,1100,Semi-Furnished,2,2,39000
+247,Madhapur,Apartment,East facing,1600,Furnished,3,3,49000
+248,Pragathi Nagar Kukatpally,Apartment,East facing,1345,Semi-Furnished,2,2,29000
+249,Banjara Hills,Independent Floor,East facing,1050,Semi-Furnished,2,2,37000
+250,Hitech City,Apartment,East facing,2000,Semi-Furnished,3,3,71000
+251,Nanakramguda,Apartment,North facing,4700,Semi-Furnished,4,4,179000
+252,Gachibowli,Apartment,East facing,2000,Semi-Furnished,4,3,62000
+253,Gachibowli,Apartment,West facing,2522,Semi-Furnished,4,4,119000
+254,Nallagandla Gachibowli,Apartment,West facing,1000,Semi-Furnished,2,2,37000
+255,Kukatpally,Apartment,East facing,1295,Semi-Furnished,2,2,37000
+256,Gachibowli,Apartment,East facing,1410,Semi-Furnished,3,2,44000
+257,Kukatpally,Apartment,West facing,1100,Furnished,2,2,47000
+258,Gachibowli,Apartment,West facing,1700,Semi-Furnished,3,2,60000
+259,Shanthi Nagar,Villa,North facing,3300,Semi-Furnished,4,4,44000
+260,Rajendra Nagar,Apartment,West facing,1100,Semi-Furnished,2,2,32000
+261,Madhapur,Apartment,East facing,2000,Semi-Furnished,3,3,86000
+262,Amberpet,Apartment,East facing,1500,Semi-Furnished,3,3,26000
+263,Osman Nagar,Apartment,East facing,4000,Unfurnished,4,4,49000
+264,Kukatpally,Apartment,West facing,1600,Semi-Furnished,3,3,39000
+265,Tellapur,Apartment,East facing,1784,Furnished,3,3,29000
+266,Kukatpally,Apartment,NorthEast facing,1500,Furnished,3,3,41000
+267,Bachupally,Apartment,NorthEast facing,1000,Semi-Furnished,2,2,24000
+268,Hitech City,Apartment,West facing,2600,Furnished,3,3,119000
+269,Nizampet,Villa,West facing,2700,Semi-Furnished,3,3,29000
+270,Hitech City,Apartment,East facing,1116,Semi-Furnished,3,3,47000
+271,Kondapur,Apartment,East facing,1798,Semi-Furnished,3,3,50000
+272,Kondapur,Independent Floor,North facing,1600,Semi-Furnished,3,3,35000
+273,Gachibowli,Apartment,East facing,1366,Semi-Furnished,4,3,65000
+274,Mallampet,Independent House,East facing,3000,Semi-Furnished,4,4,42000
+275,Gachibowli,Apartment,North facing,1945,Furnished,3,3,62009
+276,Manikonda,Apartment,East facing,2100,Semi-Furnished,3,3,56000
+277,Kondapur,Apartment,East facing,1800,Semi-Furnished,2,2,39000
+278,Saroor Nagar,Apartment,North facing,1298,Semi-Furnished,2,2,31000
+279,Kondapur,Independent Floor,East facing,1798,Semi-Furnished,3,3,52000
+280,Hitech City,Apartment,East facing,854,Semi-Furnished,2,2,37000
+281,Gachibowli,Apartment,North facing,1945,Furnished,3,3,60000
+282,Chandanagar,Apartment,West facing,1265,Semi-Furnished,2,2,28000
+283,Manikonda,Apartment,East facing,2100,Semi-Furnished,3,3,55000
+284,Kukatpally,Apartment,East facing,1800,Semi-Furnished,3,3,49000
+285,Hitech City,Apartment,East facing,1650,Semi-Furnished,3,3,45000
+286,Nanakramguda,Apartment,East facing,1800,Semi-Furnished,3,3,45000
+287,Kondapur,Apartment,NorthEast facing,1798,Semi-Furnished,3,3,54000
+288,Mallampet,Apartment,East facing,3000,Semi-Furnished,4,4,42000
+289,Hitech City,Apartment,East facing,1945,Semi-Furnished,3,3,59000
+290,Hitech City,Apartment,East facing,1558,Semi-Furnished,3,3,59000
+291,Miyapur,Apartment,East facing,1380,Semi-Furnished,2,2,27000
+292,Kukatpally,Apartment,West facing,1000,Semi-Furnished,2,2,23000
+293,Manikonda,Independent House,West facing,2140,Furnished,4,4,65000
+294,Gachibowli,Apartment,East facing,1283,Unfurnished,2,2,31000
+295,Gowlidody,Apartment,NorthEast facing,600,Furnished,1,1,17000
+296,Hitech City,Apartment,West facing,1116,Semi-Furnished,3,3,47000
+297,Nanakramguda,Apartment,NorthEast facing,2360,Semi-Furnished,3,3,70000
+298,Lakdikapul,Apartment,East facing,1050,Semi-Furnished,2,2,18000
+299,Khairatabad Road,Apartment,North facing,1400,Semi-Furnished,3,2,20000
+300,Hitech City,Apartment,East facing,1188,Semi-Furnished,3,3,64000
+301,Nallagandla Gachibowli,Apartment,East facing,1800,Semi-Furnished,3,3,49000
+302,Nampally,Independent Floor,North facing,1050,Unfurnished,2,2,15000
+303,Gachibowli,Independent Floor,East facing,1315,Semi-Furnished,3,3,49000
+304,Narsingi,Villa,West facing,4200,Semi-Furnished,4,4,129000
+305,Kondapur,Apartment,West facing,1297,Semi-Furnished,2,2,39000
+306,Hitech City,Apartment,West facing,1558,Semi-Furnished,3,3,59000
+307,Kondapur,Apartment,East facing,1798,Semi-Furnished,3,3,54000
+308,Hitech City,Apartment,East facing,1345,Semi-Furnished,3,3,59000
+309,Nallagandla Gachibowli,Apartment,East facing,1257,Semi-Furnished,2,2,40000
+310,Tellapur,Apartment,NorthEast facing,2970,Semi-Furnished,3,3,45000
+311,Hitech City,Apartment,West facing,1650,Semi-Furnished,3,3,45000
+312,Nanakramguda,Apartment,East facing,3300,Semi-Furnished,4,4,70000
+313,Nanakramguda,Apartment,East facing,2200,Semi-Furnished,3,3,50000
+314,Gachibowli,Apartment,East facing,1270,Semi-Furnished,2,2,35000
+315,Kokapet,Apartment,East facing,2160,Furnished,3,3,55000
+316,Hitech City,Apartment,East facing,1738,Semi-Furnished,3,3,60000
+317,Bachupally,Apartment,NorthEast facing,1200,Semi-Furnished,2,2,30000
+318,Gachibowli,Apartment,East facing,1993,Semi-Furnished,4,3,60000
+319,Lakdikapul,Apartment,North facing,1150,Semi-Furnished,2,2,23000
+320,Vijaya Nagar Colony,Apartment,East facing,1350,Unfurnished,3,3,20000
+321,Gachibowli,Apartment,West facing,1206,Semi-Furnished,3,3,60000
+322,Vijaya Nagar Colony,Independent Floor,North facing,1700,Unfurnished,3,2,25000
+323,Banjara Hills,Independent Floor,West facing,1450,Semi-Furnished,3,3,29000
+324,Gachibowli,Apartment,East facing,1283,Unfurnished,2,2,32000
+325,Madhapur,Apartment,West facing,3400,Furnished,3,3,180000
+326,Masab Tank,Independent Floor,North facing,900,Unfurnished,2,1,12000
+327,Jubilee Hills,Apartment,NorthWest facing,2200,Semi-Furnished,3,2,55000
+328,Banjara Hills,Apartment,NorthEast facing,2500,Semi-Furnished,3,3,45000
+329,Lakdikapul,Independent Floor,North facing,1350,Unfurnished,3,2,16700
+330,Tellapur,Apartment,West facing,2200,Semi-Furnished,3,3,45000
+331,Gachibowli,Apartment,East facing,1435,Semi-Furnished,3,3,63000
+332,Hitech City,Apartment,East facing,1945,Semi-Furnished,3,3,68000
+333,Hitech City,Apartment,East facing,1650,Semi-Furnished,3,3,49000
+334,Nallagandla Gachibowli,Apartment,East facing,1850,Semi-Furnished,3,3,50000
+335,Nallagandla Gachibowli,Apartment,West facing,1100,Semi-Furnished,2,2,38000
+336,Kukatpally,Apartment,West facing,1200,Furnished,2,2,48000
+337,Gachibowli,Apartment,East facing,1100,Semi-Furnished,3,2,45000
+338,Kukatpally,Apartment,East facing,1800,Semi-Furnished,3,3,45000
+339,Kukatpally,Apartment,East facing,1800,Semi-Furnished,3,3,38000
+340,Chandanagar,Apartment,West facing,1000,Semi-Furnished,2,2,37000
+341,Gachibowli,Apartment,West facing,1018,Semi-Furnished,2,2,47000
+342,Gachibowli,Apartment,East facing,1366,Semi-Furnished,3,3,69000
+343,Hitech City,Apartment,East facing,1900,Semi-Furnished,3,3,59000
+344,Lakdikapul,Apartment,North facing,1100,Semi-Furnished,2,2,23000
+345,Himayat Nagar,Apartment,East facing,1200,Semi-Furnished,2,2,20000
+346,Nallakunta,Apartment,East facing,1800,Semi-Furnished,3,3,30000
+347,Toli Chowki,Apartment,East facing,1400,Semi-Furnished,3,2,25000
+348,Miyapur,Apartment,East facing,1200,Semi-Furnished,2,2,23000
+349,Kokapet,Apartment,West facing,1515,Semi-Furnished,3,3,37000
+350,Madhapur,Independent House,East facing,3000,Furnished,2,2,39000
+351,Bachupally,Apartment,East facing,1400,Semi-Furnished,2,2,27000
+352,Kondapur,Apartment,NorthEast facing,700,Semi-Furnished,1,1,14000
+353,Hitech City,Villa,East facing,1950,Semi-Furnished,3,2,39000
+354,Tellapur,Apartment,West facing,3000,Semi-Furnished,4,4,44000
+355,Hitech City,Apartment,East facing,2000,Semi-Furnished,3,3,60000
+356,Mehdipatnam,Independent House,East facing,900,Unfurnished,2,2,11000
+357,Vijaya Nagar Colony,Independent Floor,West facing,1350,Unfurnished,3,2,15000
+358,Kukatpally,Apartment,North facing,1275,Semi-Furnished,2,2,34000
+359,Kondapur,Independent Floor,North facing,1600,Semi-Furnished,3,3,34000
+360,Hitech City,Apartment,East facing,1000,Semi-Furnished,2,2,34000
+361,Kondapur,Apartment,East facing,1648,Furnished,3,2,49000
+362,Kondapur,Apartment,East facing,1650,Semi-Furnished,3,3,44000
+363,Gachibowli,Apartment,West facing,1492,Semi-Furnished,3,2,47999
+364,Kondapur,Apartment,East facing,1715,Semi-Furnished,3,3,54000
+365,Kokapet,Apartment,East facing,2300,Semi-Furnished,3,3,51000
+366,Madhapur,Independent Floor,North facing,3600,Semi-Furnished,4,4,89000
+367,Kowkur,Apartment,West facing,1300,Unfurnished,3,3,13000
+368,Hitech City,Apartment,East facing,1250,Semi-Furnished,2,2,34000
+369,Kukatpally,Apartment,East facing,2200,Furnished,3,2,54000
+370,Kukatpally,Independent Floor,East facing,4000,Semi-Furnished,3,3,79000
+371,Gachibowli,Apartment,NorthEast facing,1470,Semi-Furnished,3,2,45000
+372,Amberpet,Studio Apartment,North facing,350,Unfurnished,1,1,5500
+373,Narsingi,Villa,West facing,4500,Semi-Furnished,5,4,75000
+374,Kondapur,Apartment,NorthEast facing,720,Furnished,1,1,17000
+375,Malkajgiri,Apartment,NorthEast facing,700,Semi-Furnished,1,1,14000
+376,Tellapur,Apartment,East facing,2000,Semi-Furnished,3,3,44000
+377,Tellapur,Apartment,East facing,1900,Semi-Furnished,3,3,44000
+378,Kukatpally,Independent House,East facing,4000,Semi-Furnished,3,3,89000
+379,Bachupally,Apartment,East facing,1530,Semi-Furnished,3,3,35000
+380,Narsingi,Apartment,West facing,3600,Semi-Furnished,4,4,80000
+381,Kokapet,Apartment,East facing,2600,Semi-Furnished,3,3,60000
+382,Tellapur,Apartment,West facing,2600,Semi-Furnished,4,4,55000
+383,Tellapur,Apartment,East facing,2600,Semi-Furnished,4,4,30000
+384,Kondapur,Apartment,NorthEast facing,700,Semi-Furnished,1,1,11500
+385,Abids,Apartment,NorthEast facing,710,Semi-Furnished,1,1,12000
+386,Malkajgiri,Apartment,NorthEast facing,1150,Semi-Furnished,2,2,18000
+387,Kondapur,Apartment,NorthEast facing,1800,Semi-Furnished,3,3,26000
+388,Kondapur,Apartment,NorthEast facing,1250,Semi-Furnished,2,2,18000
+389,Manikonda,Apartment,NorthEast facing,1650,Semi-Furnished,3,3,55000
+390,Kukatpally,Independent Floor,East facing,1700,Semi-Furnished,3,3,44000
+391,Gachibowli,Apartment,NorthEast facing,2200,Semi-Furnished,3,3,60000
+392,Kokapet,Apartment,NorthEast facing,2200,Semi-Furnished,3,3,50000
+393,Shaikpet,Apartment,NorthEast facing,2650,Semi-Furnished,3,3,45000
+394,Tellapur,Apartment,NorthEast facing,2650,Furnished,4,4,55000
+395,Tellapur,Apartment,NorthEast facing,1250,Semi-Furnished,4,4,30000
+396,Kokapet,Apartment,NorthEast facing,2100,Semi-Furnished,3,3,60000
+397,Hitech City,Apartment,NorthEast facing,1750,Semi-Furnished,3,3,50000
+398,Kollur,Apartment,NorthEast facing,3550,Semi-Furnished,4,4,85000
+399,Tellapur,Apartment,NorthEast facing,3500,Furnished,3,3,90000
+400,Narsingi,Apartment,East facing,2400,Semi-Furnished,3,3,60000
+401,Narsingi,Apartment,West facing,3800,Semi-Furnished,4,4,80000
+402,Kokapet,Apartment,East facing,2800,Semi-Furnished,3,3,60000
+403,Nanakramguda,Apartment,East facing,2600,Semi-Furnished,3,3,55000
+404,Kondapur,Apartment,NorthEast facing,1350,Semi-Furnished,2,2,18000
+405,Kondapur,Apartment,NorthEast facing,800,Semi-Furnished,1,1,16000
+406,Kondapur,Apartment,NorthEast facing,700,Unfurnished,1,1,9000
+407,Kondapur,Apartment,NorthEast facing,780,Semi-Furnished,1,1,14000
+408,Gopanpally,Villa,East facing,1980,Semi-Furnished,3,3,40000
+409,Kondapur,Apartment,NorthEast facing,720,Semi-Furnished,1,1,13000
+410,Gachibowli,Apartment,NorthEast facing,1993,Furnished,3,3,60000
+411,Kokapet,Villa,NorthEast facing,4800,Furnished,4,4,150000
+412,Kismatpur,Villa,East facing,4600,Furnished,3,4,150000
+413,Banjara Hills,Apartment,NorthEast facing,4300,Furnished,4,4,275000
+414,Kondapur,Apartment,NorthEast facing,1400,Semi-Furnished,2,2,23000
+415,Nanakramguda,Villa,East facing,6000,Semi-Furnished,4,5,300000
+416,Gopanpally,Villa,West facing,4000,Semi-Furnished,4,4,130000
+417,Gachibowli,Apartment,West facing,1492,Unfurnished,3,2,50000
+418,Nanakramguda,Villa,East facing,5200,Semi-Furnished,4,5,325000
+419,Aminpur,Apartment,North facing,900,Semi-Furnished,1,1,9000
+420,Nallagandla Gachibowli,Apartment,East facing,1560,Semi-Furnished,3,3,35000
+421,Narsingi,Apartment,West facing,2540,Unfurnished,4,4,50000
+422,West Marredpally,Apartment,North facing,1100,Semi-Furnished,2,2,22000
+423,Mahendra Hills,Independent House,East facing,3500,Semi-Furnished,5,4,60000
+424,Sainikpuri,Apartment,East facing,1200,Semi-Furnished,2,2,20000
+425,Gopanpally,Villa,West facing,3500,Furnished,4,5,95000
+426,Nallagandla Gachibowli,Apartment,East facing,1500,Semi-Furnished,3,3,28000
+427,Gachibowli,Apartment,West facing,1800,Semi-Furnished,3,3,38000
+428,Kondapur,Apartment,NorthEast facing,650,Semi-Furnished,1,1,13000
+429,Abids,Apartment,NorthEast facing,680,Furnished,1,1,18000
+430,Kondapur,Apartment,NorthEast facing,680,Semi-Furnished,1,1,14000
+431,Kachiguda,Apartment,East facing,600,Unfurnished,1,1,7800
+432,Nallakunta,Studio Apartment,North facing,300,Unfurnished,1,1,3500
+433,Kachiguda,Apartment,East facing,900,Unfurnished,2,2,15000
+434,Kokapet,Apartment,East facing,1900,Furnished,3,3,55000
+435,Jubilee Hills,Independent Floor,North facing,3000,Semi-Furnished,3,3,100000
+436,Nanakramguda,Villa,East facing,6500,Semi-Furnished,4,5,275000
+437,Miyapur,Villa,East facing,2626,Semi-Furnished,3,3,28000
+438,Manikonda,Villa,NorthEast facing,3500,Unfurnished,3,1,55000
+439,Banjara Hills,Independent House,SouthWest facing,6000,Semi-Furnished,5,5,200000
+440,Jubilee Hills,Apartment,East facing,2200,Semi-Furnished,3,3,35000
+441,Yousufguda,Apartment,East facing,600,Unfurnished,1,1,8000
+442,Jubilee Hills,Apartment,West facing,1250,Semi-Furnished,2,2,25000
+443,Nacharam,Independent Floor,East facing,1150,Unfurnished,2,2,12000
+444,Kondapur,Apartment,NorthEast facing,1350,Semi-Furnished,2,2,22000
+445,Kondapur,Apartment,NorthEast facing,800,Semi-Furnished,1,1,14000
+446,Jubilee Hills,Independent Floor,East facing,3000,Furnished,3,3,60000
+447,Jubilee Hills,Apartment,NorthEast facing,2750,Semi-Furnished,3,3,75000
+448,Gandipet,Villa,West facing,5000,Semi-Furnished,4,5,199000
+449,Gachibowli,Villa,West facing,4800,Semi-Furnished,5,6,150000
+450,Madhapur,Apartment,West facing,3160,Semi-Furnished,3,3,75000
+451,Gachibowli,Apartment,East facing,5000,Semi-Furnished,4,4,110000
+452,Nanakramguda,Apartment,East facing,3300,Furnished,3,5,100000
+453,Miyapur,Villa,West facing,3300,Semi-Furnished,3,3,55000
+454,Banjara Hills,Independent Floor,East facing,3500,Semi-Furnished,3,3,125000
+455,Gachibowli,Apartment,East facing,4000,Semi-Furnished,4,5,140000
+456,Gandipet,Villa,North facing,5800,Semi-Furnished,4,5,225000
+457,Jubilee Hills,Independent House,South facing,6000,Semi-Furnished,4,4,300000
+458,Jubilee Hills,Apartment,East facing,3125,Semi-Furnished,3,3,90000
+459,Kondapur,Apartment,East facing,1152,Semi-Furnished,2,2,22000
+460,Kondapur,Apartment,North facing,752,Unfurnished,1,1,9500
+461,Kondapur,Apartment,North facing,752,Unfurnished,1,1,8000
+462,Kondapur,Apartment,North facing,1252,Semi-Furnished,2,2,20000
+463,Kondapur,Apartment,East facing,652,Unfurnished,1,1,9000
+464,Kondapur,Apartment,East facing,1352,Semi-Furnished,2,2,25000
+465,Kondapur,Apartment,East facing,1252,Semi-Furnished,2,2,23000
+466,West Marredpally,Independent Floor,East facing,1880,Semi-Furnished,3,3,35000
+467,Mahendra Hills,Apartment,North facing,1450,Semi-Furnished,2,2,25000
+468,East Marredpally,Apartment,East facing,1600,Semi-Furnished,3,3,30000
+469,West Marredpally,Apartment,West facing,1650,Semi-Furnished,3,3,35000
+470,East Marredpally,Apartment,NorthEast facing,1150,Semi-Furnished,2,4,20000
+471,Mahendra Hills,Independent Floor,North facing,1950,Semi-Furnished,3,3,35000
+472,East Marredpally,Apartment,North facing,1650,Semi-Furnished,3,3,25000
+473,Mahendra Hills,Independent House,East facing,1100,Semi-Furnished,2,2,20000
+474,East Marredpally,Independent Floor,East facing,1350,Semi-Furnished,2,2,25000
+475,Jubilee Hills,Independent House,West facing,5800,Furnished,4,4,350000
+476,Nanakramguda,Apartment,West facing,4395,Semi-Furnished,4,6,159000
+477,Kondapur,Apartment,NorthEast facing,1652,Semi-Furnished,3,3,25000
+478,Kondapur,Apartment,East facing,1152,Unfurnished,2,2,17000
+479,Shaikpet,Villa,East facing,5000,Furnished,5,6,300000
+480,Madhapur,Apartment,West facing,2500,Semi-Furnished,4,4,65000
+481,Madhapur,Independent House,NorthEast facing,2000,Semi-Furnished,2,2,30000
+482,Mallampet,Apartment,East facing,1100,Semi-Furnished,2,2,12000
+483,Puppalaguda,Apartment,East facing,1410,Semi-Furnished,3,2,49000
+484,Bandlaguda Jagir,Independent House,SouthEast facing,1200,Semi-Furnished,2,2,8500
+485,Toli Chowki,Apartment,North facing,1350,Unfurnished,2,2,16200
+486,Nallagandla Gachibowli,Villa,East facing,1700,Semi-Furnished,3,4,35000
+487,Nacharam,Studio Apartment,East facing,460,Unfurnished,1,1,5000
+488,Amberpet,Studio Apartment,North facing,450,Unfurnished,1,1,4000
+489,Nacharam,Studio Apartment,West facing,200,Unfurnished,1,1,3500
+490,Nacharam,Apartment,East facing,900,Unfurnished,1,1,6500
+491,Moosarambagh Road,Independent Floor,North facing,550,Unfurnished,1,1,7000
+492,Moosarambagh Road,Independent Floor,East facing,700,Semi-Furnished,1,1,7000
+493,West Marredpally,Apartment,East facing,1800,Semi-Furnished,3,3,35000
+494,Madhapur,Independent Floor,East facing,3500,Semi-Furnished,4,3,100000
+495,Jubilee Hills,Independent Floor,East facing,4000,Semi-Furnished,4,5,135000
+496,Madhapur,Apartment,East facing,3430,Furnished,3,4,185000
+497,Ameerpet,Apartment,East facing,671,Semi-Furnished,1,1,12000
+498,Banjara Hills,Apartment,NorthEast facing,3200,Semi-Furnished,3,3,50000
+499,Dilsukh Nagar,Apartment,East facing,1700,Furnished,3,3,28000
+500,Chandanagar,Apartment,East facing,1610,Furnished,3,3,33000
+501,Banjara Hills,Villa,NorthEast facing,3000,Semi-Furnished,3,3,81000
+502,Madhapur,Apartment,North facing,2500,Semi-Furnished,4,3,60000
+503,Banjara Hills,Apartment,East facing,3500,Furnished,4,4,150000
+504,Kokapet,Villa,East facing,5990,Semi-Furnished,4,5,160000
+505,Begumpet,Independent House,North facing,7000,Furnished,6,7,200000
+506,Madhapur,Apartment,East facing,4070,Semi-Furnished,4,4,200000
+507,Sanjeeva Reddy Nagar,Apartment,East facing,672,Semi-Furnished,1,1,8500
+508,Ameerpet,Apartment,East facing,592,Semi-Furnished,1,1,8300
+509,Ameerpet,Apartment,West facing,650,Unfurnished,1,1,8500
+510,Yousufguda,Apartment,NorthEast facing,589,Semi-Furnished,1,1,8018
